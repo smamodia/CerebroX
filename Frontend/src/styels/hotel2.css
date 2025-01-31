@@ -1,0 +1,127 @@
+body {
+    font-family: "Raleway", Arial, Helvetica, sans-serif;
+  }
+  
+  .navbar {
+    background-color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .navbar a {
+    color: black;
+    text-decoration: none;
+    padding: 14px 20px;
+    font-size: 18px;
+  }
+  
+  .login-signup {
+    border: 2px solid ;
+    border-radius: 40px ;
+  }
+  
+  .login-signup:hover {
+    border-color: #007bff; /* Blue border on hover */
+  }
+  
+  .login-signup:focus {
+    border-color: #28a745; /* Green border on focus */
+  }
+
+  .navbar .logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  header {
+    position: relative;
+  }
+  
+  .hotel-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .header-content {
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 30px;
+    width: 50%;
+  }
+  
+  .book-now-form {
+    width: 100%;
+    max-width: 600px; 
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.book-now-form .input-group {
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+.input-item {
+    width: 50%; 
+    display: flex;
+    flex-direction: column;
+}
+
+.input-item label {
+    font-weight: bold;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+    transition: border-color 0.3s;
+}
+
+input:focus {
+    border-color: #007bff;
+}
+
+  button {
+    margin: 30px 0px;
+    padding: 15px;
+    background-color: #333;
+    color: white;
+    border: none;
+  }
+  
+  .room-search .input-item {
+    margin-bottom: 16px;
+  }
+  
+  .rooms {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .room {
+    width: 30%;
+  }
+  
+  .room img {
+    width: 100%;
+    height: auto;
+  }
+  #rooms h3 {
+    text-align: center;
+  }
+  
+  .room-info {
+    background-color: white;
+    padding: 16px;
+  }
+  
