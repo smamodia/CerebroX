@@ -1,0 +1,2402 @@
+[
+    {
+        "train_company": "Duronto Express",
+        "source": "Pune",
+        "destination": "Jaipur",
+        "duration": "10h 15m",
+        "class": "AC Chair Car",
+        "price": "\u20b9135"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Delhi",
+        "destination": "Pune",
+        "duration": "18h 50m",
+        "class": "AC Chair Car",
+        "price": "\u20b91427"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Mumbai",
+        "destination": "Pune",
+        "duration": "15h 10m",
+        "class": "Sleeper",
+        "price": "\u20b92386"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Mumbai",
+        "destination": "Hyderabad",
+        "duration": "15h 10m",
+        "class": "AC Chair Car",
+        "price": "\u20b9157"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Hyderabad",
+        "destination": "Bangalore",
+        "duration": "10h 15m",
+        "class": "Sleeper",
+        "price": "\u20b92486"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Pune",
+        "destination": "Ahmedabad",
+        "duration": "10h 15m",
+        "class": "AC 2-Tier",
+        "price": "\u20b91764"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Kolkata",
+        "destination": "Delhi",
+        "duration": "15h 10m",
+        "class": "AC 2-Tier",
+        "price": "\u20b91858"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Pune",
+        "destination": "Hyderabad",
+        "duration": "6h 30m",
+        "class": "AC 2-Tier",
+        "price": "\u20b91012"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Bangalore",
+        "destination": "Jaipur",
+        "duration": "15h 10m",
+        "class": "Sleeper",
+        "price": "\u20b9292"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Bangalore",
+        "destination": "Chennai",
+        "duration": "6h 30m",
+        "class": "Sleeper",
+        "price": "\u20b9466"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Hyderabad",
+        "destination": "Delhi",
+        "duration": "6h 30m",
+        "class": "Sleeper",
+        "price": "\u20b91788"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Bangalore",
+        "destination": "Jaipur",
+        "duration": "10h 15m",
+        "class": "AC 2-Tier",
+        "price": "\u20b92863"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Ahmedabad",
+        "destination": "Bangalore",
+        "duration": "6h 30m",
+        "class": "AC Chair Car",
+        "price": "\u20b9678"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Mumbai",
+        "destination": "Ahmedabad",
+        "duration": "8h 45m",
+        "class": "First Class",
+        "price": "\u20b92311"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Jaipur",
+        "destination": "Bangalore",
+        "duration": "10h 15m",
+        "class": "AC 2-Tier",
+        "price": "\u20b92970"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "duration": "15h 10m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92817"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Kolkata",
+        "destination": "Bangalore",
+        "duration": "15h 10m",
+        "class": "AC 2-Tier",
+        "price": "\u20b9429"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Mumbai",
+        "destination": "Kolkata",
+        "duration": "6h 30m",
+        "class": "First Class",
+        "price": "\u20b9542"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Mumbai",
+        "destination": "Jaipur",
+        "duration": "15h 10m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92035"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Ahmedabad",
+        "destination": "Jaipur",
+        "duration": "12h 20m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91177"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Bangalore",
+        "destination": "Delhi",
+        "duration": "15h 10m",
+        "class": "AC Chair Car",
+        "price": "\u20b92580"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Hyderabad",
+        "destination": "Delhi",
+        "duration": "10h 15m",
+        "class": "AC 2-Tier",
+        "price": "\u20b91854"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Kolkata",
+        "destination": "Pune",
+        "duration": "10h 15m",
+        "class": "AC 2-Tier",
+        "price": "\u20b9728"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Chennai",
+        "destination": "Kolkata",
+        "duration": "8h 45m",
+        "class": "First Class",
+        "price": "\u20b91994"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Mumbai",
+        "destination": "Ahmedabad",
+        "duration": "8h 45m",
+        "class": "AC 2-Tier",
+        "price": "\u20b9292"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Pune",
+        "destination": "Lucknow",
+        "duration": "12h 20m",
+        "class": "Sleeper",
+        "price": "\u20b91716"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Ahmedabad",
+        "destination": "Bangalore",
+        "duration": "12h 20m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91374"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Ahmedabad",
+        "destination": "Jaipur",
+        "duration": "8h 45m",
+        "class": "AC 3-Tier",
+        "price": "\u20b9678"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Mumbai",
+        "destination": "Jaipur",
+        "duration": "10h 15m",
+        "class": "First Class",
+        "price": "\u20b9542"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Mumbai",
+        "destination": "Jaipur",
+        "duration": "18h 50m",
+        "class": "AC Chair Car",
+        "price": "\u20b9378"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Hyderabad",
+        "destination": "Chennai",
+        "duration": "18h 50m",
+        "class": "AC 2-Tier",
+        "price": "\u20b91994"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Jaipur",
+        "destination": "Lucknow",
+        "duration": "8h 45m",
+        "class": "Sleeper",
+        "price": "\u20b91273"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Jaipur",
+        "destination": "Ahmedabad",
+        "duration": "8h 45m",
+        "class": "AC Chair Car",
+        "price": "\u20b9653"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Jaipur",
+        "destination": "Pune",
+        "duration": "10h 15m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91678"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Ahmedabad",
+        "destination": "Mumbai",
+        "duration": "8h 45m",
+        "class": "First Class",
+        "price": "\u20b91716"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Bangalore",
+        "destination": "Delhi",
+        "duration": "10h 15m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91927"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Kolkata",
+        "destination": "Lucknow",
+        "duration": "10h 15m",
+        "class": "First Class",
+        "price": "\u20b91092"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Jaipur",
+        "destination": "Lucknow",
+        "duration": "18h 50m",
+        "class": "AC 2-Tier",
+        "price": "\u20b91858"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Lucknow",
+        "destination": "Delhi",
+        "duration": "8h 45m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91239"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Lucknow",
+        "destination": "Ahmedabad",
+        "duration": "6h 30m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92620"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Pune",
+        "destination": "Lucknow",
+        "duration": "10h 15m",
+        "class": "Sleeper",
+        "price": "\u20b9640"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Kolkata",
+        "destination": "Ahmedabad",
+        "duration": "12h 20m",
+        "class": "AC Chair Car",
+        "price": "\u20b91351"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Hyderabad",
+        "destination": "Jaipur",
+        "duration": "8h 45m",
+        "class": "Sleeper",
+        "price": "\u20b9239"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Lucknow",
+        "destination": "Ahmedabad",
+        "duration": "6h 30m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91925"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Kolkata",
+        "destination": "Hyderabad",
+        "duration": "12h 20m",
+        "class": "Sleeper",
+        "price": "\u20b92899"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Kolkata",
+        "destination": "Bangalore",
+        "duration": "10h 15m",
+        "class": "Sleeper",
+        "price": "\u20b9358"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Lucknow",
+        "destination": "Hyderabad",
+        "duration": "6h 30m",
+        "class": "AC Chair Car",
+        "price": "\u20b9429"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Pune",
+        "destination": "Lucknow",
+        "duration": "12h 20m",
+        "class": "Sleeper",
+        "price": "\u20b9640"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Delhi",
+        "destination": "Pune",
+        "duration": "12h 20m",
+        "class": "AC Chair Car",
+        "price": "\u20b9547"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Lucknow",
+        "destination": "Kolkata",
+        "duration": "12h 20m",
+        "class": "First Class",
+        "price": "\u20b9384"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Bangalore",
+        "destination": "Kolkata",
+        "duration": "8h 45m",
+        "class": "AC 2-Tier",
+        "price": "\u20b91955"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Mumbai",
+        "destination": "Chennai",
+        "duration": "12h 20m",
+        "class": "First Class",
+        "price": "\u20b92496"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Chennai",
+        "destination": "Jaipur",
+        "duration": "6h 30m",
+        "class": "First Class",
+        "price": "\u20b9279"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Mumbai",
+        "destination": "Bangalore",
+        "duration": "8h 45m",
+        "class": "AC 2-Tier",
+        "price": "\u20b92693"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Ahmedabad",
+        "destination": "Kolkata",
+        "duration": "8h 45m",
+        "class": "AC 2-Tier",
+        "price": "\u20b92088"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Mumbai",
+        "destination": "Bangalore",
+        "duration": "15h 10m",
+        "class": "Sleeper",
+        "price": "\u20b91012"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Delhi",
+        "destination": "Ahmedabad",
+        "duration": "6h 30m",
+        "class": "AC Chair Car",
+        "price": "\u20b9452"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Kolkata",
+        "destination": "Lucknow",
+        "duration": "10h 15m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91764"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Delhi",
+        "destination": "Hyderabad",
+        "duration": "12h 20m",
+        "class": "AC 2-Tier",
+        "price": "\u20b9358"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "duration": "15h 10m",
+        "class": "First Class",
+        "price": "\u20b92570"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Lucknow",
+        "destination": "Mumbai",
+        "duration": "18h 50m",
+        "class": "AC Chair Car",
+        "price": "\u20b92472"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Lucknow",
+        "destination": "Delhi",
+        "duration": "6h 30m",
+        "class": "First Class",
+        "price": "\u20b92948"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Hyderabad",
+        "destination": "Mumbai",
+        "duration": "15h 10m",
+        "class": "First Class",
+        "price": "\u20b92578"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Ahmedabad",
+        "destination": "Mumbai",
+        "duration": "8h 45m",
+        "class": "First Class",
+        "price": "\u20b91753"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Pune",
+        "destination": "Kolkata",
+        "duration": "8h 45m",
+        "class": "AC 2-Tier",
+        "price": "\u20b92034"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Kolkata",
+        "destination": "Mumbai",
+        "duration": "12h 20m",
+        "class": "Sleeper",
+        "price": "\u20b9907"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Mumbai",
+        "destination": "Ahmedabad",
+        "duration": "12h 20m",
+        "class": "Sleeper",
+        "price": "\u20b9465"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Lucknow",
+        "destination": "Hyderabad",
+        "duration": "8h 45m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91764"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Ahmedabad",
+        "destination": "Chennai",
+        "duration": "15h 10m",
+        "class": "Sleeper",
+        "price": "\u20b91840"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Jaipur",
+        "destination": "Pune",
+        "duration": "6h 30m",
+        "class": "First Class",
+        "price": "\u20b91387"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Mumbai",
+        "destination": "Hyderabad",
+        "duration": "18h 50m",
+        "class": "AC 2-Tier",
+        "price": "\u20b9281"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Ahmedabad",
+        "destination": "Mumbai",
+        "duration": "8h 45m",
+        "class": "AC Chair Car",
+        "price": "\u20b91818"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Chennai",
+        "destination": "Mumbai",
+        "duration": "8h 45m",
+        "class": "Sleeper",
+        "price": "\u20b91374"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Delhi",
+        "destination": "Jaipur",
+        "duration": "10h 15m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91055"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Bangalore",
+        "destination": "Pune",
+        "duration": "15h 10m",
+        "class": "AC Chair Car",
+        "price": "\u20b92578"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Chennai",
+        "destination": "Lucknow",
+        "duration": "10h 15m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92559"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Ahmedabad",
+        "destination": "Hyderabad",
+        "duration": "8h 45m",
+        "class": "Sleeper",
+        "price": "\u20b9378"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Mumbai",
+        "destination": "Lucknow",
+        "duration": "8h 45m",
+        "class": "First Class",
+        "price": "\u20b9490"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Ahmedabad",
+        "destination": "Kolkata",
+        "duration": "12h 20m",
+        "class": "Sleeper",
+        "price": "\u20b9653"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Lucknow",
+        "destination": "Ahmedabad",
+        "duration": "10h 15m",
+        "class": "AC Chair Car",
+        "price": "\u20b92474"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Pune",
+        "destination": "Lucknow",
+        "duration": "10h 15m",
+        "class": "AC Chair Car",
+        "price": "\u20b92968"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Pune",
+        "destination": "Jaipur",
+        "duration": "12h 20m",
+        "class": "First Class",
+        "price": "\u20b92693"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Lucknow",
+        "destination": "Mumbai",
+        "duration": "10h 15m",
+        "class": "Sleeper",
+        "price": "\u20b91795"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Ahmedabad",
+        "destination": "Jaipur",
+        "duration": "8h 45m",
+        "class": "AC Chair Car",
+        "price": "\u20b92035"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Jaipur",
+        "destination": "Chennai",
+        "duration": "15h 10m",
+        "class": "AC 2-Tier",
+        "price": "\u20b91721"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Chennai",
+        "destination": "Ahmedabad",
+        "duration": "12h 20m",
+        "class": "Sleeper",
+        "price": "\u20b92294"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "duration": "15h 10m",
+        "class": "Sleeper",
+        "price": "\u20b92578"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Mumbai",
+        "destination": "Chennai",
+        "duration": "15h 10m",
+        "class": "First Class",
+        "price": "\u20b92242"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Lucknow",
+        "destination": "Pune",
+        "duration": "8h 45m",
+        "class": "Sleeper",
+        "price": "\u20b92552"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Jaipur",
+        "destination": "Bangalore",
+        "duration": "8h 45m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92948"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Jaipur",
+        "destination": "Kolkata",
+        "duration": "18h 50m",
+        "class": "AC 2-Tier",
+        "price": "\u20b92034"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Jaipur",
+        "destination": "Kolkata",
+        "duration": "10h 15m",
+        "class": "AC 2-Tier",
+        "price": "\u20b91136"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Mumbai",
+        "destination": "Bangalore",
+        "duration": "10h 15m",
+        "class": "First Class",
+        "price": "\u20b91195"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Jaipur",
+        "destination": "Delhi",
+        "duration": "8h 45m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91952"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Hyderabad",
+        "destination": "Kolkata",
+        "duration": "15h 10m",
+        "class": "AC 2-Tier",
+        "price": "\u20b9384"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Bangalore",
+        "destination": "Ahmedabad",
+        "duration": "10h 15m",
+        "class": "Sleeper",
+        "price": "\u20b91924"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Pune",
+        "destination": "Delhi",
+        "duration": "10h 15m",
+        "class": "AC 2-Tier",
+        "price": "\u20b91681"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Bangalore",
+        "destination": "Mumbai",
+        "duration": "6h 30m",
+        "class": "AC 2-Tier",
+        "price": "\u20b9678"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Delhi",
+        "destination": "Hyderabad",
+        "duration": "10h 15m",
+        "class": "AC 3-Tier",
+        "price": "\u20b9358"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Delhi",
+        "destination": "Ahmedabad",
+        "duration": "18h 50m",
+        "class": "AC Chair Car",
+        "price": "\u20b92139"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Ahmedabad",
+        "destination": "Kolkata",
+        "duration": "12h 20m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91351"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Lucknow",
+        "destination": "Jaipur",
+        "duration": "6h 30m",
+        "class": "Sleeper",
+        "price": "\u20b92034"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Kolkata",
+        "destination": "Ahmedabad",
+        "duration": "12h 20m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92496"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Delhi",
+        "destination": "Jaipur",
+        "duration": "6h 30m",
+        "class": "AC 2-Tier",
+        "price": "\u20b9466"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Jaipur",
+        "destination": "Lucknow",
+        "duration": "8h 45m",
+        "class": "AC 2-Tier",
+        "price": "\u20b9452"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Chennai",
+        "destination": "Lucknow",
+        "duration": "6h 30m",
+        "class": "First Class",
+        "price": "\u20b92649"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Mumbai",
+        "destination": "Hyderabad",
+        "duration": "6h 30m",
+        "class": "AC 2-Tier",
+        "price": "\u20b92059"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Chennai",
+        "destination": "Hyderabad",
+        "duration": "18h 50m",
+        "class": "Sleeper",
+        "price": "\u20b9728"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Ahmedabad",
+        "destination": "Pune",
+        "duration": "18h 50m",
+        "class": "AC Chair Car",
+        "price": "\u20b9731"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Pune",
+        "destination": "Ahmedabad",
+        "duration": "18h 50m",
+        "class": "Sleeper",
+        "price": "\u20b9917"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Chennai",
+        "destination": "Bangalore",
+        "duration": "15h 10m",
+        "class": "First Class",
+        "price": "\u20b92506"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Hyderabad",
+        "destination": "Delhi",
+        "duration": "8h 45m",
+        "class": "Sleeper",
+        "price": "\u20b9989"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Ahmedabad",
+        "destination": "Jaipur",
+        "duration": "6h 30m",
+        "class": "First Class",
+        "price": "\u20b92474"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Delhi",
+        "destination": "Jaipur",
+        "duration": "12h 20m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92994"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Mumbai",
+        "destination": "Kolkata",
+        "duration": "18h 50m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92531"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Lucknow",
+        "destination": "Mumbai",
+        "duration": "12h 20m",
+        "class": "First Class",
+        "price": "\u20b91669"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Mumbai",
+        "destination": "Jaipur",
+        "duration": "10h 15m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92220"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Jaipur",
+        "destination": "Pune",
+        "duration": "15h 10m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92815"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Delhi",
+        "destination": "Jaipur",
+        "duration": "10h 15m",
+        "class": "AC Chair Car",
+        "price": "\u20b92810"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Delhi",
+        "destination": "Jaipur",
+        "duration": "6h 30m",
+        "class": "AC Chair Car",
+        "price": "\u20b9184"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Kolkata",
+        "destination": "Delhi",
+        "duration": "18h 50m",
+        "class": "Sleeper",
+        "price": "\u20b92413"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Bangalore",
+        "destination": "Delhi",
+        "duration": "15h 10m",
+        "class": "Sleeper",
+        "price": "\u20b91478"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Mumbai",
+        "destination": "Ahmedabad",
+        "duration": "18h 50m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91233"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Lucknow",
+        "destination": "Kolkata",
+        "duration": "15h 10m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92994"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Pune",
+        "destination": "Lucknow",
+        "duration": "6h 30m",
+        "class": "AC Chair Car",
+        "price": "\u20b92923"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Jaipur",
+        "destination": "Kolkata",
+        "duration": "10h 15m",
+        "class": "AC 2-Tier",
+        "price": "\u20b92559"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Pune",
+        "destination": "Jaipur",
+        "duration": "6h 30m",
+        "class": "Sleeper",
+        "price": "\u20b92847"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Kolkata",
+        "destination": "Bangalore",
+        "duration": "10h 15m",
+        "class": "Sleeper",
+        "price": "\u20b92280"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Bangalore",
+        "destination": "Lucknow",
+        "duration": "6h 30m",
+        "class": "First Class",
+        "price": "\u20b92496"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Lucknow",
+        "destination": "Pune",
+        "duration": "10h 15m",
+        "class": "First Class",
+        "price": "\u20b9683"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Lucknow",
+        "destination": "Pune",
+        "duration": "6h 30m",
+        "class": "AC Chair Car",
+        "price": "\u20b91818"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Pune",
+        "destination": "Lucknow",
+        "duration": "12h 20m",
+        "class": "Sleeper",
+        "price": "\u20b92220"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Delhi",
+        "destination": "Hyderabad",
+        "duration": "18h 50m",
+        "class": "AC 2-Tier",
+        "price": "\u20b9178"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Ahmedabad",
+        "destination": "Pune",
+        "duration": "8h 45m",
+        "class": "AC 2-Tier",
+        "price": "\u20b9178"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Jaipur",
+        "destination": "Ahmedabad",
+        "duration": "18h 50m",
+        "class": "AC 2-Tier",
+        "price": "\u20b91732"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Pune",
+        "destination": "Hyderabad",
+        "duration": "6h 30m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92948"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Hyderabad",
+        "destination": "Ahmedabad",
+        "duration": "18h 50m",
+        "class": "AC Chair Car",
+        "price": "\u20b91197"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Chennai",
+        "destination": "Hyderabad",
+        "duration": "18h 50m",
+        "class": "Sleeper",
+        "price": "\u20b92035"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Jaipur",
+        "destination": "Lucknow",
+        "duration": "18h 50m",
+        "class": "First Class",
+        "price": "\u20b9798"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Mumbai",
+        "destination": "Jaipur",
+        "duration": "18h 50m",
+        "class": "First Class",
+        "price": "\u20b9178"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Bangalore",
+        "destination": "Pune",
+        "duration": "18h 50m",
+        "class": "AC Chair Car",
+        "price": "\u20b9540"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Kolkata",
+        "destination": "Pune",
+        "duration": "10h 15m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92111"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Chennai",
+        "destination": "Ahmedabad",
+        "duration": "6h 30m",
+        "class": "Sleeper",
+        "price": "\u20b92473"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "duration": "12h 20m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91427"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Ahmedabad",
+        "destination": "Delhi",
+        "duration": "12h 20m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91064"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Lucknow",
+        "destination": "Jaipur",
+        "duration": "8h 45m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92620"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Hyderabad",
+        "destination": "Delhi",
+        "duration": "10h 15m",
+        "class": "AC Chair Car",
+        "price": "\u20b9728"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Hyderabad",
+        "destination": "Delhi",
+        "duration": "15h 10m",
+        "class": "AC 3-Tier",
+        "price": "\u20b9731"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Chennai",
+        "destination": "Hyderabad",
+        "duration": "18h 50m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91792"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Kolkata",
+        "destination": "Bangalore",
+        "duration": "10h 15m",
+        "class": "AC Chair Car",
+        "price": "\u20b92649"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Hyderabad",
+        "destination": "Lucknow",
+        "duration": "12h 20m",
+        "class": "AC 2-Tier",
+        "price": "\u20b91221"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Chennai",
+        "destination": "Lucknow",
+        "duration": "10h 15m",
+        "class": "AC Chair Car",
+        "price": "\u20b9513"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Kolkata",
+        "destination": "Jaipur",
+        "duration": "18h 50m",
+        "class": "AC Chair Car",
+        "price": "\u20b9540"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Mumbai",
+        "destination": "Pune",
+        "duration": "8h 45m",
+        "class": "AC Chair Car",
+        "price": "\u20b91795"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Chennai",
+        "destination": "Jaipur",
+        "duration": "15h 10m",
+        "class": "AC 2-Tier",
+        "price": "\u20b92413"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Chennai",
+        "destination": "Jaipur",
+        "duration": "6h 30m",
+        "class": "AC 2-Tier",
+        "price": "\u20b91753"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Ahmedabad",
+        "destination": "Chennai",
+        "duration": "15h 10m",
+        "class": "AC Chair Car",
+        "price": "\u20b9653"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Mumbai",
+        "destination": "Pune",
+        "duration": "15h 10m",
+        "class": "Sleeper",
+        "price": "\u20b92473"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Pune",
+        "destination": "Hyderabad",
+        "duration": "6h 30m",
+        "class": "AC 2-Tier",
+        "price": "\u20b92167"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Kolkata",
+        "destination": "Pune",
+        "duration": "10h 15m",
+        "class": "AC 2-Tier",
+        "price": "\u20b92578"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Kolkata",
+        "destination": "Delhi",
+        "duration": "18h 50m",
+        "class": "Sleeper",
+        "price": "\u20b92242"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Pune",
+        "destination": "Chennai",
+        "duration": "18h 50m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92245"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Chennai",
+        "destination": "Jaipur",
+        "duration": "15h 10m",
+        "class": "AC Chair Car",
+        "price": "\u20b9839"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Mumbai",
+        "destination": "Bangalore",
+        "duration": "10h 15m",
+        "class": "AC 3-Tier",
+        "price": "\u20b9378"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Bangalore",
+        "destination": "Delhi",
+        "duration": "18h 50m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91243"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Pune",
+        "destination": "Ahmedabad",
+        "duration": "6h 30m",
+        "class": "AC Chair Car",
+        "price": "\u20b92815"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Jaipur",
+        "destination": "Mumbai",
+        "duration": "12h 20m",
+        "class": "Sleeper",
+        "price": "\u20b9378"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Chennai",
+        "destination": "Mumbai",
+        "duration": "18h 50m",
+        "class": "AC 2-Tier",
+        "price": "\u20b91961"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Pune",
+        "destination": "Delhi",
+        "duration": "18h 50m",
+        "class": "AC Chair Car",
+        "price": "\u20b9659"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Pune",
+        "destination": "Delhi",
+        "duration": "6h 30m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91414"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Pune",
+        "destination": "Lucknow",
+        "duration": "8h 45m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91323"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Ahmedabad",
+        "destination": "Lucknow",
+        "duration": "15h 10m",
+        "class": "First Class",
+        "price": "\u20b9468"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Chennai",
+        "destination": "Lucknow",
+        "duration": "12h 20m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91795"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Delhi",
+        "destination": "Hyderabad",
+        "duration": "18h 50m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91963"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Delhi",
+        "destination": "Pune",
+        "duration": "18h 50m",
+        "class": "Sleeper",
+        "price": "\u20b92847"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Delhi",
+        "destination": "Pune",
+        "duration": "8h 45m",
+        "class": "Sleeper",
+        "price": "\u20b92034"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Bangalore",
+        "destination": "Hyderabad",
+        "duration": "8h 45m",
+        "class": "First Class",
+        "price": "\u20b92452"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Jaipur",
+        "destination": "Lucknow",
+        "duration": "10h 15m",
+        "class": "First Class",
+        "price": "\u20b91854"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Chennai",
+        "destination": "Mumbai",
+        "duration": "10h 15m",
+        "class": "AC 2-Tier",
+        "price": "\u20b91818"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Chennai",
+        "destination": "Kolkata",
+        "duration": "12h 20m",
+        "class": "AC Chair Car",
+        "price": "\u20b9165"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Delhi",
+        "destination": "Lucknow",
+        "duration": "10h 15m",
+        "class": "Sleeper",
+        "price": "\u20b91243"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Kolkata",
+        "destination": "Bangalore",
+        "duration": "8h 45m",
+        "class": "AC Chair Car",
+        "price": "\u20b92386"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Kolkata",
+        "destination": "Mumbai",
+        "duration": "6h 30m",
+        "class": "AC Chair Car",
+        "price": "\u20b92167"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Pune",
+        "destination": "Bangalore",
+        "duration": "18h 50m",
+        "class": "Sleeper",
+        "price": "\u20b9429"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Ahmedabad",
+        "destination": "Kolkata",
+        "duration": "12h 20m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92206"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Pune",
+        "destination": "Hyderabad",
+        "duration": "18h 50m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91795"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Mumbai",
+        "destination": "Kolkata",
+        "duration": "18h 50m",
+        "class": "AC Chair Car",
+        "price": "\u20b91721"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Pune",
+        "destination": "Jaipur",
+        "duration": "15h 10m",
+        "class": "AC 2-Tier",
+        "price": "\u20b92559"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Jaipur",
+        "destination": "Delhi",
+        "duration": "18h 50m",
+        "class": "AC 2-Tier",
+        "price": "\u20b9989"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "duration": "8h 45m",
+        "class": "Sleeper",
+        "price": "\u20b9384"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Jaipur",
+        "destination": "Delhi",
+        "duration": "18h 50m",
+        "class": "First Class",
+        "price": "\u20b91339"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Kolkata",
+        "destination": "Hyderabad",
+        "duration": "15h 10m",
+        "class": "First Class",
+        "price": "\u20b9302"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Chennai",
+        "destination": "Ahmedabad",
+        "duration": "8h 45m",
+        "class": "AC 2-Tier",
+        "price": "\u20b91721"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Pune",
+        "destination": "Hyderabad",
+        "duration": "8h 45m",
+        "class": "AC 3-Tier",
+        "price": "\u20b9508"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Bangalore",
+        "destination": "Hyderabad",
+        "duration": "10h 15m",
+        "class": "Sleeper",
+        "price": "\u20b9280"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Jaipur",
+        "destination": "Ahmedabad",
+        "duration": "6h 30m",
+        "class": "AC Chair Car",
+        "price": "\u20b91272"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Hyderabad",
+        "destination": "Lucknow",
+        "duration": "10h 15m",
+        "class": "AC Chair Car",
+        "price": "\u20b91961"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Pune",
+        "destination": "Bangalore",
+        "duration": "15h 10m",
+        "class": "Sleeper",
+        "price": "\u20b9652"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Hyderabad",
+        "destination": "Delhi",
+        "duration": "15h 10m",
+        "class": "AC Chair Car",
+        "price": "\u20b92218"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Pune",
+        "destination": "Delhi",
+        "duration": "15h 10m",
+        "class": "AC 2-Tier",
+        "price": "\u20b9342"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Jaipur",
+        "destination": "Ahmedabad",
+        "duration": "10h 15m",
+        "class": "AC Chair Car",
+        "price": "\u20b9793"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Kolkata",
+        "destination": "Mumbai",
+        "duration": "15h 10m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91064"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Ahmedabad",
+        "destination": "Delhi",
+        "duration": "18h 50m",
+        "class": "AC Chair Car",
+        "price": "\u20b92122"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "duration": "12h 20m",
+        "class": "Sleeper",
+        "price": "\u20b91272"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Hyderabad",
+        "destination": "Pune",
+        "duration": "15h 10m",
+        "class": "AC 3-Tier",
+        "price": "\u20b9587"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Ahmedabad",
+        "destination": "Bangalore",
+        "duration": "18h 50m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91906"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Chennai",
+        "destination": "Hyderabad",
+        "duration": "8h 45m",
+        "class": "AC Chair Car",
+        "price": "\u20b91681"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Pune",
+        "destination": "Jaipur",
+        "duration": "12h 20m",
+        "class": "AC Chair Car",
+        "price": "\u20b91753"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Delhi",
+        "destination": "Ahmedabad",
+        "duration": "10h 15m",
+        "class": "Sleeper",
+        "price": "\u20b9239"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Lucknow",
+        "destination": "Kolkata",
+        "duration": "8h 45m",
+        "class": "Sleeper",
+        "price": "\u20b92990"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Kolkata",
+        "destination": "Jaipur",
+        "duration": "8h 45m",
+        "class": "Sleeper",
+        "price": "\u20b9302"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Jaipur",
+        "destination": "Chennai",
+        "duration": "10h 15m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91840"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Jaipur",
+        "destination": "Ahmedabad",
+        "duration": "6h 30m",
+        "class": "Sleeper",
+        "price": "\u20b92218"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Kolkata",
+        "destination": "Hyderabad",
+        "duration": "10h 15m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92242"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Chennai",
+        "destination": "Jaipur",
+        "duration": "18h 50m",
+        "class": "Sleeper",
+        "price": "\u20b92817"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Kolkata",
+        "destination": "Chennai",
+        "duration": "6h 30m",
+        "class": "AC 2-Tier",
+        "price": "\u20b92748"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Jaipur",
+        "destination": "Mumbai",
+        "duration": "10h 15m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91681"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Bangalore",
+        "destination": "Lucknow",
+        "duration": "18h 50m",
+        "class": "AC 3-Tier",
+        "price": "\u20b9297"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Mumbai",
+        "destination": "Lucknow",
+        "duration": "12h 20m",
+        "class": "AC Chair Car",
+        "price": "\u20b91221"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Lucknow",
+        "destination": "Mumbai",
+        "duration": "8h 45m",
+        "class": "Sleeper",
+        "price": "\u20b9281"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Jaipur",
+        "destination": "Lucknow",
+        "duration": "12h 20m",
+        "class": "First Class",
+        "price": "\u20b9839"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Kolkata",
+        "destination": "Ahmedabad",
+        "duration": "10h 15m",
+        "class": "Sleeper",
+        "price": "\u20b91195"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Pune",
+        "destination": "Kolkata",
+        "duration": "15h 10m",
+        "class": "AC Chair Car",
+        "price": "\u20b91387"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Lucknow",
+        "destination": "Kolkata",
+        "duration": "8h 45m",
+        "class": "AC Chair Car",
+        "price": "\u20b91487"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Hyderabad",
+        "destination": "Pune",
+        "duration": "8h 45m",
+        "class": "Sleeper",
+        "price": "\u20b92868"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Jaipur",
+        "destination": "Chennai",
+        "duration": "12h 20m",
+        "class": "AC Chair Car",
+        "price": "\u20b91818"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "duration": "8h 45m",
+        "class": "AC Chair Car",
+        "price": "\u20b91925"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Kolkata",
+        "destination": "Mumbai",
+        "duration": "15h 10m",
+        "class": "AC Chair Car",
+        "price": "\u20b9342"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Hyderabad",
+        "destination": "Ahmedabad",
+        "duration": "12h 20m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91840"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Delhi",
+        "destination": "Bangalore",
+        "duration": "18h 50m",
+        "class": "AC Chair Car",
+        "price": "\u20b91136"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Delhi",
+        "destination": "Pune",
+        "duration": "18h 50m",
+        "class": "AC Chair Car",
+        "price": "\u20b91927"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Jaipur",
+        "destination": "Bangalore",
+        "duration": "12h 20m",
+        "class": "AC 3-Tier",
+        "price": "\u20b9165"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Chennai",
+        "destination": "Ahmedabad",
+        "duration": "6h 30m",
+        "class": "AC Chair Car",
+        "price": "\u20b91858"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Ahmedabad",
+        "destination": "Delhi",
+        "duration": "15h 10m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92716"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Jaipur",
+        "destination": "Pune",
+        "duration": "18h 50m",
+        "class": "AC Chair Car",
+        "price": "\u20b91955"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Bangalore",
+        "destination": "Pune",
+        "duration": "8h 45m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91273"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Pune",
+        "destination": "Lucknow",
+        "duration": "12h 20m",
+        "class": "AC 2-Tier",
+        "price": "\u20b9279"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Mumbai",
+        "destination": "Ahmedabad",
+        "duration": "15h 10m",
+        "class": "First Class",
+        "price": "\u20b92716"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "duration": "8h 45m",
+        "class": "AC 3-Tier",
+        "price": "\u20b9940"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Delhi",
+        "destination": "Pune",
+        "duration": "8h 45m",
+        "class": "First Class",
+        "price": "\u20b9239"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Delhi",
+        "destination": "Hyderabad",
+        "duration": "15h 10m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92709"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Chennai",
+        "destination": "Hyderabad",
+        "duration": "18h 50m",
+        "class": "AC 2-Tier",
+        "price": "\u20b91339"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Chennai",
+        "destination": "Bangalore",
+        "duration": "6h 30m",
+        "class": "First Class",
+        "price": "\u20b92620"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Mumbai",
+        "destination": "Jaipur",
+        "duration": "8h 45m",
+        "class": "First Class",
+        "price": "\u20b92463"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Kolkata",
+        "destination": "Lucknow",
+        "duration": "10h 15m",
+        "class": "Sleeper",
+        "price": "\u20b9917"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Delhi",
+        "destination": "Mumbai",
+        "duration": "12h 20m",
+        "class": "AC 2-Tier",
+        "price": "\u20b92005"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Pune",
+        "destination": "Ahmedabad",
+        "duration": "15h 10m",
+        "class": "AC Chair Car",
+        "price": "\u20b91770"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Chennai",
+        "destination": "Ahmedabad",
+        "duration": "8h 45m",
+        "class": "First Class",
+        "price": "\u20b91925"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Kolkata",
+        "destination": "Ahmedabad",
+        "duration": "12h 20m",
+        "class": "AC 2-Tier",
+        "price": "\u20b9135"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Hyderabad",
+        "destination": "Mumbai",
+        "duration": "12h 20m",
+        "class": "AC 2-Tier",
+        "price": "\u20b92923"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Bangalore",
+        "destination": "Hyderabad",
+        "duration": "6h 30m",
+        "class": "AC Chair Car",
+        "price": "\u20b91818"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Mumbai",
+        "destination": "Kolkata",
+        "duration": "15h 10m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92088"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Ahmedabad",
+        "destination": "Kolkata",
+        "duration": "18h 50m",
+        "class": "AC Chair Car",
+        "price": "\u20b92957"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Bangalore",
+        "destination": "Delhi",
+        "duration": "8h 45m",
+        "class": "Sleeper",
+        "price": "\u20b92034"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Jaipur",
+        "destination": "Hyderabad",
+        "duration": "6h 30m",
+        "class": "First Class",
+        "price": "\u20b92716"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Jaipur",
+        "destination": "Bangalore",
+        "duration": "15h 10m",
+        "class": "Sleeper",
+        "price": "\u20b91012"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Bangalore",
+        "destination": "Pune",
+        "duration": "18h 50m",
+        "class": "AC Chair Car",
+        "price": "\u20b9468"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Mumbai",
+        "destination": "Hyderabad",
+        "duration": "6h 30m",
+        "class": "AC Chair Car",
+        "price": "\u20b9279"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Kolkata",
+        "destination": "Ahmedabad",
+        "duration": "6h 30m",
+        "class": "AC 2-Tier",
+        "price": "\u20b92939"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Jaipur",
+        "destination": "Pune",
+        "duration": "10h 15m",
+        "class": "AC 3-Tier",
+        "price": "\u20b9343"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Chennai",
+        "destination": "Mumbai",
+        "duration": "6h 30m",
+        "class": "First Class",
+        "price": "\u20b92311"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Ahmedabad",
+        "destination": "Hyderabad",
+        "duration": "6h 30m",
+        "class": "AC Chair Car",
+        "price": "\u20b91788"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Kolkata",
+        "destination": "Pune",
+        "duration": "10h 15m",
+        "class": "Sleeper",
+        "price": "\u20b91735"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Lucknow",
+        "destination": "Chennai",
+        "duration": "15h 10m",
+        "class": "AC 2-Tier",
+        "price": "\u20b92815"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Jaipur",
+        "destination": "Lucknow",
+        "duration": "6h 30m",
+        "class": "First Class",
+        "price": "\u20b9659"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Kolkata",
+        "destination": "Lucknow",
+        "duration": "8h 45m",
+        "class": "First Class",
+        "price": "\u20b92477"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Kolkata",
+        "destination": "Pune",
+        "duration": "15h 10m",
+        "class": "AC Chair Car",
+        "price": "\u20b9944"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Lucknow",
+        "destination": "Delhi",
+        "duration": "12h 20m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91721"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Delhi",
+        "destination": "Bangalore",
+        "duration": "10h 15m",
+        "class": "AC 3-Tier",
+        "price": "\u20b9610"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Delhi",
+        "destination": "Bangalore",
+        "duration": "15h 10m",
+        "class": "First Class",
+        "price": "\u20b9924"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Jaipur",
+        "destination": "Delhi",
+        "duration": "15h 10m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92486"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Bangalore",
+        "destination": "Mumbai",
+        "duration": "18h 50m",
+        "class": "Sleeper",
+        "price": "\u20b92576"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "duration": "6h 30m",
+        "class": "AC Chair Car",
+        "price": "\u20b92220"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Lucknow",
+        "destination": "Chennai",
+        "duration": "6h 30m",
+        "class": "Sleeper",
+        "price": "\u20b92224"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Lucknow",
+        "destination": "Chennai",
+        "duration": "8h 45m",
+        "class": "Sleeper",
+        "price": "\u20b92005"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Delhi",
+        "destination": "Hyderabad",
+        "duration": "12h 20m",
+        "class": "AC Chair Car",
+        "price": "\u20b91092"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Lucknow",
+        "destination": "Kolkata",
+        "duration": "18h 50m",
+        "class": "AC 2-Tier",
+        "price": "\u20b92748"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Ahmedabad",
+        "destination": "Bangalore",
+        "duration": "8h 45m",
+        "class": "First Class",
+        "price": "\u20b9654"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Kolkata",
+        "destination": "Jaipur",
+        "duration": "10h 15m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92486"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Pune",
+        "destination": "Jaipur",
+        "duration": "18h 50m",
+        "class": "AC 3-Tier",
+        "price": "\u20b91339"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Jaipur",
+        "destination": "Delhi",
+        "duration": "12h 20m",
+        "class": "AC 2-Tier",
+        "price": "\u20b92966"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Ahmedabad",
+        "destination": "Chennai",
+        "duration": "18h 50m",
+        "class": "First Class",
+        "price": "\u20b91136"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Jaipur",
+        "destination": "Delhi",
+        "duration": "6h 30m",
+        "class": "AC 2-Tier",
+        "price": "\u20b92396"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Hyderabad",
+        "destination": "Delhi",
+        "duration": "18h 50m",
+        "class": "First Class",
+        "price": "\u20b91115"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Jaipur",
+        "destination": "Pune",
+        "duration": "6h 30m",
+        "class": "AC 2-Tier",
+        "price": "\u20b92367"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Delhi",
+        "destination": "Mumbai",
+        "duration": "15h 10m",
+        "class": "AC Chair Car",
+        "price": "\u20b91681"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Delhi",
+        "destination": "Lucknow",
+        "duration": "18h 50m",
+        "class": "AC Chair Car",
+        "price": "\u20b92803"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Kolkata",
+        "destination": "Hyderabad",
+        "duration": "12h 20m",
+        "class": "First Class",
+        "price": "\u20b91735"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Bangalore",
+        "destination": "Jaipur",
+        "duration": "8h 45m",
+        "class": "AC Chair Car",
+        "price": "\u20b91272"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Hyderabad",
+        "destination": "Pune",
+        "duration": "8h 45m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92059"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Mumbai",
+        "destination": "Lucknow",
+        "duration": "15h 10m",
+        "class": "Sleeper",
+        "price": "\u20b91194"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Kolkata",
+        "destination": "Mumbai",
+        "duration": "12h 20m",
+        "class": "First Class",
+        "price": "\u20b91000"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Chennai",
+        "destination": "Hyderabad",
+        "duration": "18h 50m",
+        "class": "Sleeper",
+        "price": "\u20b92372"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Ahmedabad",
+        "destination": "Chennai",
+        "duration": "15h 10m",
+        "class": "First Class",
+        "price": "\u20b92990"
+    },
+    {
+        "train_company": "Shatabdi Express",
+        "source": "Hyderabad",
+        "destination": "Ahmedabad",
+        "duration": "10h 15m",
+        "class": "First Class",
+        "price": "\u20b92294"
+    },
+    {
+        "train_company": "Indian Railways",
+        "source": "Bangalore",
+        "destination": "Chennai",
+        "duration": "15h 10m",
+        "class": "First Class",
+        "price": "\u20b92474"
+    },
+    {
+        "train_company": "Duronto Express",
+        "source": "Jaipur",
+        "destination": "Ahmedabad",
+        "duration": "18h 50m",
+        "class": "AC 3-Tier",
+        "price": "\u20b9199"
+    },
+    {
+        "train_company": "Rajdhani Express",
+        "source": "Chennai",
+        "destination": "Jaipur",
+        "duration": "6h 30m",
+        "class": "AC 3-Tier",
+        "price": "\u20b92559"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Jaipur",
+        "destination": "Chennai",
+        "duration": "6h 30m",
+        "class": "Sleeper",
+        "price": "\u20b91818"
+    },
+    {
+        "train_company": "Tejas Express",
+        "source": "Lucknow",
+        "destination": "Hyderabad",
+        "duration": "10h 15m",
+        "class": "AC 2-Tier",
+        "price": "\u20b91092"
+    }
+]

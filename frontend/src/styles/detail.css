@@ -1,0 +1,178 @@
+/* Add a smooth transition for the hover effects */
+.left-sidebar, .middle-content, .right-sidebar {
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Style the detail card for better readability */
+.detail-card {
+  margin-bottom: 20px;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease; 
+}
+
+/* Hover effect on detail card */
+.detail-card:hover {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); 
+}
+
+/* Style the flight header */
+.general-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+/* Style for the 'well' container */
+.well {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+/* Style for the labels */
+.label {
+  display: inline-block;
+  margin-right: 10px; 
+  margin-bottom: 5px; 
+  padding: 8px 12px; 
+  font-size: 14px;
+  border-radius: 20px;
+  transition: transform 0.3s ease; 
+}
+
+/* Add hover effect for labels */
+.label:hover {
+  transform: scale(1.1); 
+}
+
+/* Define specific colors for different labels */
+.label-default {
+  background-color: #777;
+}
+
+.label-primary {
+  background-color: #337ab7;
+}
+
+.label-success {
+  background-color: #5bc0de;
+}
+
+.label-warning {
+  background-color: #f0ad4e;
+}
+
+/* Ensure the 'Interests' text has proper spacing */
+.well p a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+  transition: color 0.3s ease;
+}
+
+/* Change link color on hover */
+.well p a:hover {
+  color: #337ab7;
+}
+
+.general-info {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.view-prices-btn {
+  margin-top: 10px;
+}
+
+/* Left Sidebar */
+.left-sidebar {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.left-sidebar img {
+  margin-bottom: 10px;
+}
+
+/* Middle content */
+.middle-content {
+  background-color: #ececec;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+/* Right Sidebar */
+.right-sidebar {
+  background-color: #f4f4f4;
+  padding: 20px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.thumbnail img {
+  width: 100%;
+  height: auto;
+}
+
+/* Responsive Design: Adjust layout for smaller screens */
+@media (max-width: 768px) {
+  .col-sm-3, .col-sm-9, .col-sm-2 {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .left-sidebar, .middle-content, .right-sidebar {
+    transition: none; /* Disable transition on smaller screens */
+  }
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+  .detail-card {
+    padding: 10px;
+    font-size: 0.9rem;
+  }
+}
+
+.detail-card hr {
+  border: 0;                
+  height: 3px;              
+  background-color: #333;   
+  margin-top: 10px;         
+  margin-bottom: 15px;      
+  width: 80%;               
+  margin-left: auto;        
+  margin-right: auto;       
+  transition: width 0.3s ease, background-color 0.3s ease; 
+}
+
+
+
+/* Hover effect for detail cards */
+.detail-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2);
+  width: 100%;              
+  background-color: #d8d8d8;
+}
+
+.book-now-btn {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+.book-now-btn:hover {
+  background-color: #0056b3;
+}

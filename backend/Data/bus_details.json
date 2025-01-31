@@ -1,0 +1,2102 @@
+[
+    {
+        "bus_company": "KSRTC",
+        "source": "Delhi",
+        "destination": "Jaipur",
+        "duration": "4h 30m",
+        "price": "\u20b91215"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Mumbai",
+        "destination": "Pune",
+        "duration": "8h 15m",
+        "price": "\u20b91266"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Delhi",
+        "destination": "Lucknow",
+        "duration": "4h 30m",
+        "price": "\u20b9835"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Bangalore",
+        "destination": "Hyderabad",
+        "duration": "4h 30m",
+        "price": "\u20b91200"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Bangalore",
+        "destination": "Kolkata",
+        "duration": "8h 15m",
+        "price": "\u20b91298"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Delhi",
+        "destination": "Jaipur",
+        "duration": "6h 20m",
+        "price": "\u20b9487"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Mumbai",
+        "destination": "Ahmedabad",
+        "duration": "12h 40m",
+        "price": "\u20b9522"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Hyderabad",
+        "destination": "Lucknow",
+        "duration": "3h 10m",
+        "price": "\u20b91338"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Kolkata",
+        "destination": "Ahmedabad",
+        "duration": "4h 30m",
+        "price": "\u20b91259"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Chennai",
+        "destination": "Hyderabad",
+        "duration": "12h 40m",
+        "price": "\u20b91238"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Kolkata",
+        "destination": "Hyderabad",
+        "duration": "8h 15m",
+        "price": "\u20b9464"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Ahmedabad",
+        "destination": "Kolkata",
+        "duration": "10h 55m",
+        "price": "\u20b9251"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Bangalore",
+        "destination": "Kolkata",
+        "duration": "8h 15m",
+        "price": "\u20b9643"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Bangalore",
+        "destination": "Jaipur",
+        "duration": "12h 40m",
+        "price": "\u20b9331"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Delhi",
+        "destination": "Hyderabad",
+        "duration": "12h 40m",
+        "price": "\u20b9938"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Pune",
+        "destination": "Jaipur",
+        "duration": "6h 20m",
+        "price": "\u20b9507"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Lucknow",
+        "destination": "Jaipur",
+        "duration": "12h 40m",
+        "price": "\u20b91225"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Bangalore",
+        "destination": "Pune",
+        "duration": "6h 20m",
+        "price": "\u20b91244"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Chennai",
+        "destination": "Jaipur",
+        "duration": "3h 10m",
+        "price": "\u20b9247"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Bangalore",
+        "destination": "Mumbai",
+        "duration": "3h 10m",
+        "price": "\u20b9877"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Jaipur",
+        "destination": "Lucknow",
+        "duration": "8h 15m",
+        "price": "\u20b9865"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Chennai",
+        "destination": "Jaipur",
+        "duration": "8h 15m",
+        "price": "\u20b9958"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Mumbai",
+        "destination": "Kolkata",
+        "duration": "6h 20m",
+        "price": "\u20b9544"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Pune",
+        "destination": "Hyderabad",
+        "duration": "6h 20m",
+        "price": "\u20b9354"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Bangalore",
+        "destination": "Mumbai",
+        "duration": "3h 10m",
+        "price": "\u20b91316"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Kolkata",
+        "destination": "Jaipur",
+        "duration": "6h 20m",
+        "price": "\u20b91247"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Hyderabad",
+        "destination": "Mumbai",
+        "duration": "3h 10m",
+        "price": "\u20b9615"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Pune",
+        "destination": "Kolkata",
+        "duration": "8h 15m",
+        "price": "\u20b9933"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Ahmedabad",
+        "destination": "Chennai",
+        "duration": "8h 15m",
+        "price": "\u20b91427"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Delhi",
+        "destination": "Pune",
+        "duration": "3h 10m",
+        "price": "\u20b9748"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Lucknow",
+        "destination": "Kolkata",
+        "duration": "12h 40m",
+        "price": "\u20b9433"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Lucknow",
+        "destination": "Mumbai",
+        "duration": "4h 30m",
+        "price": "\u20b9354"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "duration": "8h 15m",
+        "price": "\u20b9735"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Bangalore",
+        "destination": "Jaipur",
+        "duration": "12h 40m",
+        "price": "\u20b9849"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Chennai",
+        "destination": "Mumbai",
+        "duration": "6h 20m",
+        "price": "\u20b91070"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Bangalore",
+        "destination": "Jaipur",
+        "duration": "10h 55m",
+        "price": "\u20b9610"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Lucknow",
+        "destination": "Bangalore",
+        "duration": "10h 55m",
+        "price": "\u20b9903"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Pune",
+        "destination": "Mumbai",
+        "duration": "10h 55m",
+        "price": "\u20b91341"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Bangalore",
+        "destination": "Lucknow",
+        "duration": "4h 30m",
+        "price": "\u20b9458"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Jaipur",
+        "destination": "Delhi",
+        "duration": "6h 20m",
+        "price": "\u20b9962"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Hyderabad",
+        "destination": "Kolkata",
+        "duration": "10h 55m",
+        "price": "\u20b91070"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Jaipur",
+        "destination": "Bangalore",
+        "duration": "12h 40m",
+        "price": "\u20b91052"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Mumbai",
+        "destination": "Pune",
+        "duration": "6h 20m",
+        "price": "\u20b9247"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Pune",
+        "destination": "Ahmedabad",
+        "duration": "10h 55m",
+        "price": "\u20b9876"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Delhi",
+        "destination": "Kolkata",
+        "duration": "4h 30m",
+        "price": "\u20b9748"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Bangalore",
+        "destination": "Jaipur",
+        "duration": "3h 10m",
+        "price": "\u20b9964"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Chennai",
+        "destination": "Jaipur",
+        "duration": "12h 40m",
+        "price": "\u20b9295"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Delhi",
+        "destination": "Hyderabad",
+        "duration": "12h 40m",
+        "price": "\u20b91225"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Hyderabad",
+        "destination": "Jaipur",
+        "duration": "8h 15m",
+        "price": "\u20b91477"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Ahmedabad",
+        "destination": "Mumbai",
+        "duration": "10h 55m",
+        "price": "\u20b91324"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Pune",
+        "destination": "Mumbai",
+        "duration": "4h 30m",
+        "price": "\u20b9507"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Mumbai",
+        "destination": "Jaipur",
+        "duration": "8h 15m",
+        "price": "\u20b9645"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "duration": "4h 30m",
+        "price": "\u20b9846"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Pune",
+        "destination": "Lucknow",
+        "duration": "10h 55m",
+        "price": "\u20b9907"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Lucknow",
+        "destination": "Jaipur",
+        "duration": "12h 40m",
+        "price": "\u20b91247"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Bangalore",
+        "destination": "Chennai",
+        "duration": "8h 15m",
+        "price": "\u20b9297"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Ahmedabad",
+        "destination": "Bangalore",
+        "duration": "4h 30m",
+        "price": "\u20b9846"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Hyderabad",
+        "destination": "Chennai",
+        "duration": "4h 30m",
+        "price": "\u20b91053"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Bangalore",
+        "destination": "Mumbai",
+        "duration": "8h 15m",
+        "price": "\u20b9423"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Bangalore",
+        "destination": "Delhi",
+        "duration": "4h 30m",
+        "price": "\u20b91485"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "duration": "6h 20m",
+        "price": "\u20b91052"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Bangalore",
+        "destination": "Hyderabad",
+        "duration": "10h 55m",
+        "price": "\u20b91230"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Bangalore",
+        "destination": "Ahmedabad",
+        "duration": "10h 55m",
+        "price": "\u20b9297"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Chennai",
+        "destination": "Mumbai",
+        "duration": "8h 15m",
+        "price": "\u20b9507"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Jaipur",
+        "destination": "Pune",
+        "duration": "3h 10m",
+        "price": "\u20b9229"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Bangalore",
+        "destination": "Ahmedabad",
+        "duration": "3h 10m",
+        "price": "\u20b91088"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Chennai",
+        "destination": "Pune",
+        "duration": "3h 10m",
+        "price": "\u20b9672"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Bangalore",
+        "destination": "Lucknow",
+        "duration": "10h 55m",
+        "price": "\u20b9385"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Chennai",
+        "destination": "Mumbai",
+        "duration": "12h 40m",
+        "price": "\u20b91149"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Jaipur",
+        "destination": "Mumbai",
+        "duration": "10h 55m",
+        "price": "\u20b91427"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Hyderabad",
+        "destination": "Pune",
+        "duration": "10h 55m",
+        "price": "\u20b9651"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Hyderabad",
+        "destination": "Chennai",
+        "duration": "12h 40m",
+        "price": "\u20b9347"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Mumbai",
+        "destination": "Pune",
+        "duration": "3h 10m",
+        "price": "\u20b9938"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Delhi",
+        "destination": "Hyderabad",
+        "duration": "4h 30m",
+        "price": "\u20b9478"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Mumbai",
+        "destination": "Pune",
+        "duration": "10h 55m",
+        "price": "\u20b91214"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Ahmedabad",
+        "destination": "Lucknow",
+        "duration": "6h 20m",
+        "price": "\u20b91262"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Jaipur",
+        "destination": "Delhi",
+        "duration": "3h 10m",
+        "price": "\u20b9645"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Kolkata",
+        "destination": "Ahmedabad",
+        "duration": "3h 10m",
+        "price": "\u20b9687"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Lucknow",
+        "destination": "Mumbai",
+        "duration": "6h 20m",
+        "price": "\u20b9825"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Mumbai",
+        "destination": "Lucknow",
+        "duration": "12h 40m",
+        "price": "\u20b9214"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Ahmedabad",
+        "destination": "Delhi",
+        "duration": "10h 55m",
+        "price": "\u20b91236"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Chennai",
+        "destination": "Lucknow",
+        "duration": "8h 15m",
+        "price": "\u20b91203"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Hyderabad",
+        "destination": "Chennai",
+        "duration": "12h 40m",
+        "price": "\u20b91334"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Mumbai",
+        "destination": "Hyderabad",
+        "duration": "8h 15m",
+        "price": "\u20b9297"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Jaipur",
+        "destination": "Mumbai",
+        "duration": "6h 20m",
+        "price": "\u20b9622"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Kolkata",
+        "destination": "Bangalore",
+        "duration": "12h 40m",
+        "price": "\u20b9247"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Hyderabad",
+        "destination": "Pune",
+        "duration": "3h 10m",
+        "price": "\u20b9622"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Kolkata",
+        "destination": "Bangalore",
+        "duration": "4h 30m",
+        "price": "\u20b9383"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Hyderabad",
+        "destination": "Kolkata",
+        "duration": "12h 40m",
+        "price": "\u20b9662"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Chennai",
+        "destination": "Mumbai",
+        "duration": "4h 30m",
+        "price": "\u20b91324"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Hyderabad",
+        "destination": "Bangalore",
+        "duration": "8h 15m",
+        "price": "\u20b9204"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Delhi",
+        "destination": "Bangalore",
+        "duration": "12h 40m",
+        "price": "\u20b91053"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Jaipur",
+        "destination": "Chennai",
+        "duration": "12h 40m",
+        "price": "\u20b91413"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Hyderabad",
+        "destination": "Jaipur",
+        "duration": "4h 30m",
+        "price": "\u20b9458"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Pune",
+        "destination": "Chennai",
+        "duration": "3h 10m",
+        "price": "\u20b9441"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Pune",
+        "destination": "Hyderabad",
+        "duration": "8h 15m",
+        "price": "\u20b91315"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Ahmedabad",
+        "destination": "Lucknow",
+        "duration": "8h 15m",
+        "price": "\u20b9835"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Chennai",
+        "destination": "Kolkata",
+        "duration": "3h 10m",
+        "price": "\u20b91485"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Ahmedabad",
+        "destination": "Pune",
+        "duration": "8h 15m",
+        "price": "\u20b9247"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Ahmedabad",
+        "destination": "Lucknow",
+        "duration": "10h 55m",
+        "price": "\u20b9640"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Pune",
+        "destination": "Hyderabad",
+        "duration": "8h 15m",
+        "price": "\u20b9962"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Kolkata",
+        "destination": "Bangalore",
+        "duration": "10h 55m",
+        "price": "\u20b9587"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Chennai",
+        "destination": "Bangalore",
+        "duration": "3h 10m",
+        "price": "\u20b9877"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Lucknow",
+        "destination": "Kolkata",
+        "duration": "8h 15m",
+        "price": "\u20b9835"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Bangalore",
+        "destination": "Ahmedabad",
+        "duration": "12h 40m",
+        "price": "\u20b9201"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Pune",
+        "destination": "Mumbai",
+        "duration": "6h 20m",
+        "price": "\u20b9469"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Bangalore",
+        "destination": "Pune",
+        "duration": "8h 15m",
+        "price": "\u20b9229"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Delhi",
+        "destination": "Hyderabad",
+        "duration": "12h 40m",
+        "price": "\u20b91485"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Jaipur",
+        "destination": "Lucknow",
+        "duration": "12h 40m",
+        "price": "\u20b9607"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Mumbai",
+        "destination": "Hyderabad",
+        "duration": "3h 10m",
+        "price": "\u20b9297"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Chennai",
+        "destination": "Bangalore",
+        "duration": "10h 55m",
+        "price": "\u20b9457"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Mumbai",
+        "destination": "Jaipur",
+        "duration": "3h 10m",
+        "price": "\u20b9469"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Ahmedabad",
+        "destination": "Mumbai",
+        "duration": "3h 10m",
+        "price": "\u20b91214"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Lucknow",
+        "destination": "Pune",
+        "duration": "3h 10m",
+        "price": "\u20b91037"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Jaipur",
+        "destination": "Lucknow",
+        "duration": "12h 40m",
+        "price": "\u20b91280"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Mumbai",
+        "destination": "Kolkata",
+        "duration": "8h 15m",
+        "price": "\u20b91149"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Delhi",
+        "destination": "Mumbai",
+        "duration": "6h 20m",
+        "price": "\u20b9546"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Chennai",
+        "destination": "Jaipur",
+        "duration": "12h 40m",
+        "price": "\u20b91424"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Ahmedabad",
+        "destination": "Hyderabad",
+        "duration": "4h 30m",
+        "price": "\u20b9734"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Jaipur",
+        "destination": "Delhi",
+        "duration": "8h 15m",
+        "price": "\u20b91236"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Delhi",
+        "destination": "Hyderabad",
+        "duration": "4h 30m",
+        "price": "\u20b9937"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Lucknow",
+        "destination": "Bangalore",
+        "duration": "8h 15m",
+        "price": "\u20b9409"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Mumbai",
+        "destination": "Chennai",
+        "duration": "8h 15m",
+        "price": "\u20b9858"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Mumbai",
+        "destination": "Chennai",
+        "duration": "12h 40m",
+        "price": "\u20b91477"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Hyderabad",
+        "destination": "Bangalore",
+        "duration": "10h 55m",
+        "price": "\u20b91028"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Lucknow",
+        "destination": "Bangalore",
+        "duration": "3h 10m",
+        "price": "\u20b9807"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Delhi",
+        "destination": "Ahmedabad",
+        "duration": "3h 10m",
+        "price": "\u20b91496"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Lucknow",
+        "destination": "Ahmedabad",
+        "duration": "10h 55m",
+        "price": "\u20b9858"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Jaipur",
+        "destination": "Chennai",
+        "duration": "6h 20m",
+        "price": "\u20b9910"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Jaipur",
+        "destination": "Pune",
+        "duration": "10h 55m",
+        "price": "\u20b91298"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Hyderabad",
+        "destination": "Bangalore",
+        "duration": "12h 40m",
+        "price": "\u20b9522"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Ahmedabad",
+        "destination": "Delhi",
+        "duration": "10h 55m",
+        "price": "\u20b9907"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Bangalore",
+        "destination": "Chennai",
+        "duration": "10h 55m",
+        "price": "\u20b91051"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Ahmedabad",
+        "destination": "Lucknow",
+        "duration": "8h 15m",
+        "price": "\u20b9903"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Lucknow",
+        "destination": "Delhi",
+        "duration": "4h 30m",
+        "price": "\u20b9522"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Kolkata",
+        "destination": "Chennai",
+        "duration": "10h 55m",
+        "price": "\u20b91426"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Chennai",
+        "destination": "Mumbai",
+        "duration": "8h 15m",
+        "price": "\u20b91338"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Jaipur",
+        "destination": "Bangalore",
+        "duration": "8h 15m",
+        "price": "\u20b9458"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Pune",
+        "destination": "Hyderabad",
+        "duration": "10h 55m",
+        "price": "\u20b91083"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Lucknow",
+        "destination": "Hyderabad",
+        "duration": "3h 10m",
+        "price": "\u20b9849"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Kolkata",
+        "destination": "Ahmedabad",
+        "duration": "12h 40m",
+        "price": "\u20b91230"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Jaipur",
+        "destination": "Delhi",
+        "duration": "6h 20m",
+        "price": "\u20b9852"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Jaipur",
+        "destination": "Delhi",
+        "duration": "4h 30m",
+        "price": "\u20b91496"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Pune",
+        "destination": "Kolkata",
+        "duration": "4h 30m",
+        "price": "\u20b9347"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Chennai",
+        "destination": "Bangalore",
+        "duration": "4h 30m",
+        "price": "\u20b91402"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Jaipur",
+        "destination": "Chennai",
+        "duration": "10h 55m",
+        "price": "\u20b91124"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Delhi",
+        "destination": "Pune",
+        "duration": "3h 10m",
+        "price": "\u20b91113"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "duration": "6h 20m",
+        "price": "\u20b9610"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Hyderabad",
+        "destination": "Chennai",
+        "duration": "8h 15m",
+        "price": "\u20b91136"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Ahmedabad",
+        "destination": "Pune",
+        "duration": "10h 55m",
+        "price": "\u20b9615"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Kolkata",
+        "destination": "Hyderabad",
+        "duration": "6h 20m",
+        "price": "\u20b91341"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Lucknow",
+        "destination": "Bangalore",
+        "duration": "12h 40m",
+        "price": "\u20b91434"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Pune",
+        "destination": "Mumbai",
+        "duration": "4h 30m",
+        "price": "\u20b9964"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Mumbai",
+        "destination": "Chennai",
+        "duration": "10h 55m",
+        "price": "\u20b9745"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Lucknow",
+        "destination": "Bangalore",
+        "duration": "4h 30m",
+        "price": "\u20b9622"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Ahmedabad",
+        "destination": "Pune",
+        "duration": "10h 55m",
+        "price": "\u20b9251"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Hyderabad",
+        "destination": "Lucknow",
+        "duration": "3h 10m",
+        "price": "\u20b9441"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Chennai",
+        "destination": "Lucknow",
+        "duration": "3h 10m",
+        "price": "\u20b91230"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Lucknow",
+        "destination": "Ahmedabad",
+        "duration": "10h 55m",
+        "price": "\u20b9825"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Lucknow",
+        "destination": "Jaipur",
+        "duration": "10h 55m",
+        "price": "\u20b9959"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Hyderabad",
+        "destination": "Kolkata",
+        "duration": "10h 55m",
+        "price": "\u20b9775"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Bangalore",
+        "destination": "Jaipur",
+        "duration": "3h 10m",
+        "price": "\u20b9361"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Pune",
+        "destination": "Kolkata",
+        "duration": "4h 30m",
+        "price": "\u20b9559"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Lucknow",
+        "destination": "Chennai",
+        "duration": "12h 40m",
+        "price": "\u20b9332"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Mumbai",
+        "destination": "Bangalore",
+        "duration": "12h 40m",
+        "price": "\u20b9243"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Ahmedabad",
+        "destination": "Hyderabad",
+        "duration": "4h 30m",
+        "price": "\u20b9453"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Hyderabad",
+        "destination": "Jaipur",
+        "duration": "8h 15m",
+        "price": "\u20b91334"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Jaipur",
+        "destination": "Bangalore",
+        "duration": "4h 30m",
+        "price": "\u20b91247"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Bangalore",
+        "destination": "Ahmedabad",
+        "duration": "3h 10m",
+        "price": "\u20b9610"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "duration": "3h 10m",
+        "price": "\u20b91244"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Kolkata",
+        "destination": "Ahmedabad",
+        "duration": "3h 10m",
+        "price": "\u20b91271"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Hyderabad",
+        "destination": "Chennai",
+        "duration": "6h 20m",
+        "price": "\u20b9763"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Bangalore",
+        "destination": "Ahmedabad",
+        "duration": "12h 40m",
+        "price": "\u20b9441"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Ahmedabad",
+        "destination": "Chennai",
+        "duration": "12h 40m",
+        "price": "\u20b9964"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Chennai",
+        "destination": "Kolkata",
+        "duration": "6h 20m",
+        "price": "\u20b91214"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Kolkata",
+        "destination": "Mumbai",
+        "duration": "4h 30m",
+        "price": "\u20b91424"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Ahmedabad",
+        "destination": "Pune",
+        "duration": "10h 55m",
+        "price": "\u20b91054"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Lucknow",
+        "destination": "Bangalore",
+        "duration": "4h 30m",
+        "price": "\u20b91315"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Chennai",
+        "destination": "Jaipur",
+        "duration": "8h 15m",
+        "price": "\u20b9830"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Bangalore",
+        "destination": "Delhi",
+        "duration": "6h 20m",
+        "price": "\u20b9310"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Bangalore",
+        "destination": "Kolkata",
+        "duration": "10h 55m",
+        "price": "\u20b91477"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Ahmedabad",
+        "destination": "Pune",
+        "duration": "6h 20m",
+        "price": "\u20b9347"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Jaipur",
+        "destination": "Mumbai",
+        "duration": "8h 15m",
+        "price": "\u20b9521"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Ahmedabad",
+        "destination": "Kolkata",
+        "duration": "12h 40m",
+        "price": "\u20b9968"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Lucknow",
+        "destination": "Jaipur",
+        "duration": "8h 15m",
+        "price": "\u20b9735"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Chennai",
+        "destination": "Ahmedabad",
+        "duration": "12h 40m",
+        "price": "\u20b91338"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Bangalore",
+        "destination": "Hyderabad",
+        "duration": "10h 55m",
+        "price": "\u20b91052"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Ahmedabad",
+        "destination": "Mumbai",
+        "duration": "8h 15m",
+        "price": "\u20b91250"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Delhi",
+        "destination": "Mumbai",
+        "duration": "3h 10m",
+        "price": "\u20b9968"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Pune",
+        "destination": "Lucknow",
+        "duration": "3h 10m",
+        "price": "\u20b9615"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Lucknow",
+        "destination": "Hyderabad",
+        "duration": "10h 55m",
+        "price": "\u20b91341"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Jaipur",
+        "destination": "Bangalore",
+        "duration": "6h 20m",
+        "price": "\u20b9745"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Lucknow",
+        "destination": "Mumbai",
+        "duration": "12h 40m",
+        "price": "\u20b9478"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "duration": "8h 15m",
+        "price": "\u20b9858"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Kolkata",
+        "destination": "Delhi",
+        "duration": "3h 10m",
+        "price": "\u20b91271"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Hyderabad",
+        "destination": "Delhi",
+        "duration": "10h 55m",
+        "price": "\u20b9484"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Ahmedabad",
+        "destination": "Pune",
+        "duration": "4h 30m",
+        "price": "\u20b9938"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Chennai",
+        "destination": "Bangalore",
+        "duration": "12h 40m",
+        "price": "\u20b9968"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Ahmedabad",
+        "destination": "Hyderabad",
+        "duration": "10h 55m",
+        "price": "\u20b9544"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Ahmedabad",
+        "destination": "Lucknow",
+        "duration": "3h 10m",
+        "price": "\u20b9598"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Bangalore",
+        "destination": "Kolkata",
+        "duration": "10h 55m",
+        "price": "\u20b9404"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Bangalore",
+        "destination": "Kolkata",
+        "duration": "3h 10m",
+        "price": "\u20b9522"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Bangalore",
+        "destination": "Mumbai",
+        "duration": "12h 40m",
+        "price": "\u20b9475"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Mumbai",
+        "destination": "Jaipur",
+        "duration": "6h 20m",
+        "price": "\u20b91315"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Delhi",
+        "destination": "Hyderabad",
+        "duration": "10h 55m",
+        "price": "\u20b9817"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Jaipur",
+        "destination": "Kolkata",
+        "duration": "4h 30m",
+        "price": "\u20b91477"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Lucknow",
+        "destination": "Bangalore",
+        "duration": "10h 55m",
+        "price": "\u20b9560"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Hyderabad",
+        "destination": "Jaipur",
+        "duration": "8h 15m",
+        "price": "\u20b9286"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Hyderabad",
+        "destination": "Delhi",
+        "duration": "8h 15m",
+        "price": "\u20b9452"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Delhi",
+        "destination": "Jaipur",
+        "duration": "3h 10m",
+        "price": "\u20b9514"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Pune",
+        "destination": "Delhi",
+        "duration": "3h 10m",
+        "price": "\u20b91424"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Hyderabad",
+        "destination": "Jaipur",
+        "duration": "10h 55m",
+        "price": "\u20b9735"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Ahmedabad",
+        "destination": "Mumbai",
+        "duration": "6h 20m",
+        "price": "\u20b9453"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Hyderabad",
+        "destination": "Ahmedabad",
+        "duration": "12h 40m",
+        "price": "\u20b9775"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Kolkata",
+        "destination": "Mumbai",
+        "duration": "3h 10m",
+        "price": "\u20b9521"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Mumbai",
+        "destination": "Ahmedabad",
+        "duration": "12h 40m",
+        "price": "\u20b9260"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Jaipur",
+        "destination": "Lucknow",
+        "duration": "3h 10m",
+        "price": "\u20b91315"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Lucknow",
+        "destination": "Hyderabad",
+        "duration": "3h 10m",
+        "price": "\u20b9248"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Delhi",
+        "destination": "Bangalore",
+        "duration": "10h 55m",
+        "price": "\u20b9469"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Ahmedabad",
+        "destination": "Pune",
+        "duration": "4h 30m",
+        "price": "\u20b9858"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Lucknow",
+        "destination": "Kolkata",
+        "duration": "10h 55m",
+        "price": "\u20b9528"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Kolkata",
+        "destination": "Hyderabad",
+        "duration": "10h 55m",
+        "price": "\u20b91070"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Hyderabad",
+        "destination": "Chennai",
+        "duration": "4h 30m",
+        "price": "\u20b91334"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Jaipur",
+        "destination": "Ahmedabad",
+        "duration": "4h 30m",
+        "price": "\u20b91113"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Kolkata",
+        "destination": "Pune",
+        "duration": "8h 15m",
+        "price": "\u20b9910"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Mumbai",
+        "destination": "Bangalore",
+        "duration": "6h 20m",
+        "price": "\u20b91496"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Pune",
+        "destination": "Jaipur",
+        "duration": "3h 10m",
+        "price": "\u20b91244"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Pune",
+        "destination": "Chennai",
+        "duration": "6h 20m",
+        "price": "\u20b9314"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Lucknow",
+        "destination": "Jaipur",
+        "duration": "6h 20m",
+        "price": "\u20b91247"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Delhi",
+        "destination": "Hyderabad",
+        "duration": "8h 15m",
+        "price": "\u20b91215"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Ahmedabad",
+        "destination": "Kolkata",
+        "duration": "4h 30m",
+        "price": "\u20b91447"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Chennai",
+        "destination": "Kolkata",
+        "duration": "8h 15m",
+        "price": "\u20b91052"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Bangalore",
+        "destination": "Delhi",
+        "duration": "8h 15m",
+        "price": "\u20b9457"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Ahmedabad",
+        "destination": "Bangalore",
+        "duration": "12h 40m",
+        "price": "\u20b9903"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Mumbai",
+        "destination": "Hyderabad",
+        "duration": "4h 30m",
+        "price": "\u20b9825"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Pune",
+        "destination": "Jaipur",
+        "duration": "3h 10m",
+        "price": "\u20b91083"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Chennai",
+        "destination": "Mumbai",
+        "duration": "6h 20m",
+        "price": "\u20b9458"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Chennai",
+        "destination": "Kolkata",
+        "duration": "3h 10m",
+        "price": "\u20b9247"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Jaipur",
+        "destination": "Ahmedabad",
+        "duration": "8h 15m",
+        "price": "\u20b9229"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Jaipur",
+        "destination": "Mumbai",
+        "duration": "10h 55m",
+        "price": "\u20b91230"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Mumbai",
+        "destination": "Hyderabad",
+        "duration": "3h 10m",
+        "price": "\u20b9598"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Mumbai",
+        "destination": "Hyderabad",
+        "duration": "12h 40m",
+        "price": "\u20b91334"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Delhi",
+        "destination": "Kolkata",
+        "duration": "8h 15m",
+        "price": "\u20b9969"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Pune",
+        "destination": "Delhi",
+        "duration": "12h 40m",
+        "price": "\u20b9907"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Mumbai",
+        "destination": "Chennai",
+        "duration": "4h 30m",
+        "price": "\u20b9958"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Jaipur",
+        "destination": "Delhi",
+        "duration": "4h 30m",
+        "price": "\u20b9457"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Jaipur",
+        "destination": "Lucknow",
+        "duration": "12h 40m",
+        "price": "\u20b9507"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Bangalore",
+        "destination": "Kolkata",
+        "duration": "6h 20m",
+        "price": "\u20b9380"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Pune",
+        "destination": "Bangalore",
+        "duration": "6h 20m",
+        "price": "\u20b9727"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Hyderabad",
+        "destination": "Chennai",
+        "duration": "12h 40m",
+        "price": "\u20b9467"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Kolkata",
+        "destination": "Mumbai",
+        "duration": "4h 30m",
+        "price": "\u20b9222"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Kolkata",
+        "destination": "Lucknow",
+        "duration": "8h 15m",
+        "price": "\u20b9681"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Lucknow",
+        "destination": "Hyderabad",
+        "duration": "10h 55m",
+        "price": "\u20b9389"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Delhi",
+        "destination": "Kolkata",
+        "duration": "6h 20m",
+        "price": "\u20b9870"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Mumbai",
+        "destination": "Jaipur",
+        "duration": "12h 40m",
+        "price": "\u20b9817"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Mumbai",
+        "destination": "Ahmedabad",
+        "duration": "12h 40m",
+        "price": "\u20b9807"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Jaipur",
+        "destination": "Lucknow",
+        "duration": "12h 40m",
+        "price": "\u20b9598"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Kolkata",
+        "destination": "Delhi",
+        "duration": "4h 30m",
+        "price": "\u20b9573"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Ahmedabad",
+        "destination": "Mumbai",
+        "duration": "6h 20m",
+        "price": "\u20b9608"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Ahmedabad",
+        "destination": "Pune",
+        "duration": "6h 20m",
+        "price": "\u20b9989"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Mumbai",
+        "destination": "Kolkata",
+        "duration": "6h 20m",
+        "price": "\u20b9277"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Delhi",
+        "destination": "Lucknow",
+        "duration": "3h 10m",
+        "price": "\u20b9361"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Lucknow",
+        "destination": "Kolkata",
+        "duration": "3h 10m",
+        "price": "\u20b91203"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Delhi",
+        "destination": "Hyderabad",
+        "duration": "3h 10m",
+        "price": "\u20b9410"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Delhi",
+        "destination": "Chennai",
+        "duration": "8h 15m",
+        "price": "\u20b9615"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Delhi",
+        "destination": "Pune",
+        "duration": "6h 20m",
+        "price": "\u20b9295"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Pune",
+        "destination": "Mumbai",
+        "duration": "8h 15m",
+        "price": "\u20b9830"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Bangalore",
+        "destination": "Pune",
+        "duration": "8h 15m",
+        "price": "\u20b91402"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Ahmedabad",
+        "destination": "Mumbai",
+        "duration": "6h 20m",
+        "price": "\u20b9621"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Lucknow",
+        "destination": "Jaipur",
+        "duration": "12h 40m",
+        "price": "\u20b9989"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Bangalore",
+        "destination": "Kolkata",
+        "duration": "3h 10m",
+        "price": "\u20b9314"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Ahmedabad",
+        "destination": "Pune",
+        "duration": "6h 20m",
+        "price": "\u20b9903"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Delhi",
+        "destination": "Lucknow",
+        "duration": "10h 55m",
+        "price": "\u20b91280"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Kolkata",
+        "destination": "Mumbai",
+        "duration": "3h 10m",
+        "price": "\u20b9433"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Pune",
+        "destination": "Lucknow",
+        "duration": "10h 55m",
+        "price": "\u20b9480"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Kolkata",
+        "destination": "Hyderabad",
+        "duration": "4h 30m",
+        "price": "\u20b9825"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "duration": "3h 10m",
+        "price": "\u20b91244"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Mumbai",
+        "destination": "Jaipur",
+        "duration": "8h 15m",
+        "price": "\u20b9938"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Mumbai",
+        "destination": "Kolkata",
+        "duration": "3h 10m",
+        "price": "\u20b91203"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Ahmedabad",
+        "destination": "Lucknow",
+        "duration": "12h 40m",
+        "price": "\u20b91271"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Bangalore",
+        "destination": "Delhi",
+        "duration": "6h 20m",
+        "price": "\u20b91230"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Kolkata",
+        "destination": "Mumbai",
+        "duration": "6h 20m",
+        "price": "\u20b9487"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Delhi",
+        "destination": "Mumbai",
+        "duration": "6h 20m",
+        "price": "\u20b91244"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "duration": "10h 55m",
+        "price": "\u20b91262"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Chennai",
+        "destination": "Lucknow",
+        "duration": "8h 15m",
+        "price": "\u20b9858"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Kolkata",
+        "destination": "Chennai",
+        "duration": "12h 40m",
+        "price": "\u20b9423"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Ahmedabad",
+        "destination": "Mumbai",
+        "duration": "8h 15m",
+        "price": "\u20b91028"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Chennai",
+        "destination": "Ahmedabad",
+        "duration": "6h 20m",
+        "price": "\u20b9528"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Chennai",
+        "destination": "Delhi",
+        "duration": "12h 40m",
+        "price": "\u20b91313"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Lucknow",
+        "destination": "Bangalore",
+        "duration": "4h 30m",
+        "price": "\u20b9722"
+    },
+    {
+        "bus_company": "SRM Transport",
+        "source": "Hyderabad",
+        "destination": "Pune",
+        "duration": "10h 55m",
+        "price": "\u20b9433"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Mumbai",
+        "destination": "Hyderabad",
+        "duration": "8h 15m",
+        "price": "\u20b9498"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Hyderabad",
+        "destination": "Bangalore",
+        "duration": "12h 40m",
+        "price": "\u20b9409"
+    },
+    {
+        "bus_company": "VRL Travels",
+        "source": "Ahmedabad",
+        "destination": "Hyderabad",
+        "duration": "6h 20m",
+        "price": "\u20b9260"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Ahmedabad",
+        "destination": "Jaipur",
+        "duration": "12h 40m",
+        "price": "\u20b91485"
+    },
+    {
+        "bus_company": "RedBus",
+        "source": "Ahmedabad",
+        "destination": "Kolkata",
+        "duration": "3h 10m",
+        "price": "\u20b9607"
+    },
+    {
+        "bus_company": "KSRTC",
+        "source": "Hyderabad",
+        "destination": "Ahmedabad",
+        "duration": "8h 15m",
+        "price": "\u20b9498"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Delhi",
+        "destination": "Chennai",
+        "duration": "3h 10m",
+        "price": "\u20b91401"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Mumbai",
+        "destination": "Lucknow",
+        "duration": "8h 15m",
+        "price": "\u20b91477"
+    },
+    {
+        "bus_company": "Parveen Travels",
+        "source": "Hyderabad",
+        "destination": "Mumbai",
+        "duration": "3h 10m",
+        "price": "\u20b9848"
+    }
+]

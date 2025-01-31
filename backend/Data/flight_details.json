@@ -1,0 +1,2402 @@
+[
+    {
+        "airline": "Air India",
+        "source": "Toronto",
+        "destination": "London",
+        "duration": "3h 20m",
+        "price_one_way": "$285",
+        "price_return": "$435.6"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "New York",
+        "destination": "London",
+        "duration": "5h 45m",
+        "price_one_way": "$65",
+        "price_return": "$113.4"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Tokyo",
+        "destination": "Paris",
+        "duration": "3h 20m",
+        "price_one_way": "$174",
+        "price_return": "$831.6"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Delhi",
+        "destination": "Mumbai",
+        "duration": "3h 20m",
+        "price_one_way": "$348",
+        "price_return": "$504.0"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "New York",
+        "destination": "Singapore",
+        "duration": "6h 50m",
+        "price_one_way": "$478",
+        "price_return": "$225.0"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Singapore",
+        "destination": "London",
+        "duration": "3h 20m",
+        "price_one_way": "$380",
+        "price_return": "$601.2"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Paris",
+        "destination": "Delhi",
+        "duration": "3h 20m",
+        "price_one_way": "$379",
+        "price_return": "$225.0"
+    },
+    {
+        "airline": "Air India",
+        "source": "Singapore",
+        "destination": "Tokyo",
+        "duration": "5h 45m",
+        "price_one_way": "$466",
+        "price_return": "$423.0"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Delhi",
+        "destination": "New York",
+        "duration": "6h 50m",
+        "price_one_way": "$143",
+        "price_return": "$190.8"
+    },
+    {
+        "airline": "Delta",
+        "source": "Paris",
+        "destination": "Sydney",
+        "duration": "3h 20m",
+        "price_one_way": "$229",
+        "price_return": "$192.6"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Toronto",
+        "destination": "Singapore",
+        "duration": "12h 10m",
+        "price_one_way": "$210",
+        "price_return": "$577.8000000000001"
+    },
+    {
+        "airline": "Air India",
+        "source": "Toronto",
+        "destination": "Paris",
+        "duration": "3h 20m",
+        "price_one_way": "$377",
+        "price_return": "$898.2"
+    },
+    {
+        "airline": "Delta",
+        "source": "Tokyo",
+        "destination": "Sydney",
+        "duration": "8h 15m",
+        "price_one_way": "$207",
+        "price_return": "$331.2"
+    },
+    {
+        "airline": "Air India",
+        "source": "Sydney",
+        "destination": "Toronto",
+        "duration": "3h 20m",
+        "price_one_way": "$424",
+        "price_return": "$756.0"
+    },
+    {
+        "airline": "Delta",
+        "source": "Sydney",
+        "destination": "Paris",
+        "duration": "3h 20m",
+        "price_one_way": "$125",
+        "price_return": "$325.8"
+    },
+    {
+        "airline": "Delta",
+        "source": "Singapore",
+        "destination": "Toronto",
+        "duration": "6h 50m",
+        "price_one_way": "$311",
+        "price_return": "$363.6"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Paris",
+        "destination": "London",
+        "duration": "12h 10m",
+        "price_one_way": "$247",
+        "price_return": "$367.2"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "New York",
+        "destination": "Sydney",
+        "duration": "6h 50m",
+        "price_one_way": "$299",
+        "price_return": "$626.4"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Singapore",
+        "destination": "Delhi",
+        "duration": "3h 20m",
+        "price_one_way": "$424",
+        "price_return": "$226.8"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Paris",
+        "destination": "Mumbai",
+        "duration": "3h 20m",
+        "price_one_way": "$107",
+        "price_return": "$108.0"
+    },
+    {
+        "airline": "Air India",
+        "source": "Sydney",
+        "destination": "Delhi",
+        "duration": "12h 10m",
+        "price_one_way": "$256",
+        "price_return": "$412.2"
+    },
+    {
+        "airline": "Delta",
+        "source": "Mumbai",
+        "destination": "Dubai",
+        "duration": "6h 50m",
+        "price_one_way": "$202",
+        "price_return": "$412.2"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Sydney",
+        "destination": "Singapore",
+        "duration": "3h 20m",
+        "price_one_way": "$187",
+        "price_return": "$194.4"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Toronto",
+        "destination": "New York",
+        "duration": "5h 45m",
+        "price_one_way": "$148",
+        "price_return": "$808.2"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Toronto",
+        "destination": "Dubai",
+        "duration": "6h 50m",
+        "price_one_way": "$108",
+        "price_return": "$891.0"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Mumbai",
+        "destination": "London",
+        "duration": "3h 20m",
+        "price_one_way": "$499",
+        "price_return": "$124.2"
+    },
+    {
+        "airline": "Delta",
+        "source": "Dubai",
+        "destination": "London",
+        "duration": "6h 50m",
+        "price_one_way": "$331",
+        "price_return": "$124.2"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Mumbai",
+        "destination": "Paris",
+        "duration": "2h 30m",
+        "price_one_way": "$371",
+        "price_return": "$106.2"
+    },
+    {
+        "airline": "Air India",
+        "source": "London",
+        "destination": "New York",
+        "duration": "12h 10m",
+        "price_one_way": "$84",
+        "price_return": "$646.2"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "London",
+        "destination": "Tokyo",
+        "duration": "6h 50m",
+        "price_one_way": "$194",
+        "price_return": "$365.40000000000003"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Tokyo",
+        "destination": "New York",
+        "duration": "6h 50m",
+        "price_one_way": "$80",
+        "price_return": "$376.2"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Toronto",
+        "destination": "Sydney",
+        "duration": "6h 50m",
+        "price_one_way": "$270",
+        "price_return": "$144.0"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Toronto",
+        "destination": "Tokyo",
+        "duration": "12h 10m",
+        "price_one_way": "$60",
+        "price_return": "$561.6"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Mumbai",
+        "destination": "Paris",
+        "duration": "6h 50m",
+        "price_one_way": "$285",
+        "price_return": "$372.6"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Paris",
+        "destination": "Toronto",
+        "duration": "3h 20m",
+        "price_one_way": "$321",
+        "price_return": "$838.8000000000001"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "duration": "3h 20m",
+        "price_one_way": "$216",
+        "price_return": "$502.2"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Tokyo",
+        "destination": "Mumbai",
+        "duration": "5h 45m",
+        "price_one_way": "$229",
+        "price_return": "$648.0"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Paris",
+        "destination": "London",
+        "duration": "6h 50m",
+        "price_one_way": "$236",
+        "price_return": "$601.2"
+    },
+    {
+        "airline": "Delta",
+        "source": "New York",
+        "destination": "London",
+        "duration": "2h 30m",
+        "price_one_way": "$125",
+        "price_return": "$255.6"
+    },
+    {
+        "airline": "Emirates",
+        "source": "New York",
+        "destination": "Dubai",
+        "duration": "8h 15m",
+        "price_one_way": "$346",
+        "price_return": "$642.6"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Tokyo",
+        "destination": "Toronto",
+        "duration": "5h 45m",
+        "price_one_way": "$77",
+        "price_return": "$214.20000000000002"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Delhi",
+        "destination": "Singapore",
+        "duration": "12h 10m",
+        "price_one_way": "$229",
+        "price_return": "$568.8000000000001"
+    },
+    {
+        "airline": "Air India",
+        "source": "Tokyo",
+        "destination": "Delhi",
+        "duration": "12h 10m",
+        "price_one_way": "$287",
+        "price_return": "$763.2"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Paris",
+        "destination": "Tokyo",
+        "duration": "8h 15m",
+        "price_one_way": "$174",
+        "price_return": "$559.8000000000001"
+    },
+    {
+        "airline": "Air India",
+        "source": "New York",
+        "destination": "Sydney",
+        "duration": "2h 30m",
+        "price_one_way": "$312",
+        "price_return": "$444.6"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Tokyo",
+        "destination": "Dubai",
+        "duration": "12h 10m",
+        "price_one_way": "$317",
+        "price_return": "$513.0"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Delhi",
+        "destination": "Singapore",
+        "duration": "8h 15m",
+        "price_one_way": "$187",
+        "price_return": "$572.4"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Delhi",
+        "destination": "Sydney",
+        "duration": "12h 10m",
+        "price_one_way": "$432",
+        "price_return": "$444.6"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "New York",
+        "destination": "Dubai",
+        "duration": "3h 20m",
+        "price_one_way": "$135",
+        "price_return": "$748.8000000000001"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "duration": "5h 45m",
+        "price_one_way": "$487",
+        "price_return": "$892.8000000000001"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Tokyo",
+        "destination": "Paris",
+        "duration": "3h 20m",
+        "price_one_way": "$77",
+        "price_return": "$433.8"
+    },
+    {
+        "airline": "Air India",
+        "source": "Paris",
+        "destination": "Toronto",
+        "duration": "3h 20m",
+        "price_one_way": "$499",
+        "price_return": "$365.40000000000003"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Paris",
+        "destination": "New York",
+        "duration": "6h 50m",
+        "price_one_way": "$80",
+        "price_return": "$896.4"
+    },
+    {
+        "airline": "Air India",
+        "source": "New York",
+        "destination": "Tokyo",
+        "duration": "2h 30m",
+        "price_one_way": "$53",
+        "price_return": "$649.8000000000001"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "London",
+        "destination": "Singapore",
+        "duration": "5h 45m",
+        "price_one_way": "$334",
+        "price_return": "$532.8000000000001"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "New York",
+        "destination": "Dubai",
+        "duration": "8h 15m",
+        "price_one_way": "$240",
+        "price_return": "$813.6"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Toronto",
+        "destination": "Mumbai",
+        "duration": "12h 10m",
+        "price_one_way": "$420",
+        "price_return": "$433.8"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "London",
+        "destination": "Paris",
+        "duration": "5h 45m",
+        "price_one_way": "$192",
+        "price_return": "$363.6"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Tokyo",
+        "destination": "Paris",
+        "duration": "3h 20m",
+        "price_one_way": "$108",
+        "price_return": "$626.4"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Sydney",
+        "destination": "New York",
+        "duration": "2h 30m",
+        "price_one_way": "$337",
+        "price_return": "$687.6"
+    },
+    {
+        "airline": "Air India",
+        "source": "Delhi",
+        "destination": "Sydney",
+        "duration": "3h 20m",
+        "price_one_way": "$357",
+        "price_return": "$367.2"
+    },
+    {
+        "airline": "Delta",
+        "source": "Toronto",
+        "destination": "Tokyo",
+        "duration": "6h 50m",
+        "price_one_way": "$220",
+        "price_return": "$106.2"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Dubai",
+        "destination": "Delhi",
+        "duration": "5h 45m",
+        "price_one_way": "$254",
+        "price_return": "$642.6"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Singapore",
+        "destination": "Sydney",
+        "duration": "6h 50m",
+        "price_one_way": "$247",
+        "price_return": "$558.0"
+    },
+    {
+        "airline": "Delta",
+        "source": "New York",
+        "destination": "Singapore",
+        "duration": "8h 15m",
+        "price_one_way": "$312",
+        "price_return": "$536.4"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Sydney",
+        "destination": "New York",
+        "duration": "5h 45m",
+        "price_one_way": "$196",
+        "price_return": "$352.8"
+    },
+    {
+        "airline": "Delta",
+        "source": "Sydney",
+        "destination": "Mumbai",
+        "duration": "5h 45m",
+        "price_one_way": "$53",
+        "price_return": "$885.6"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Delhi",
+        "destination": "Tokyo",
+        "duration": "12h 10m",
+        "price_one_way": "$460",
+        "price_return": "$570.6"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Dubai",
+        "destination": "Mumbai",
+        "duration": "3h 20m",
+        "price_one_way": "$305",
+        "price_return": "$95.4"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Mumbai",
+        "destination": "Paris",
+        "duration": "3h 20m",
+        "price_one_way": "$247",
+        "price_return": "$558.0"
+    },
+    {
+        "airline": "Delta",
+        "source": "Dubai",
+        "destination": "New York",
+        "duration": "8h 15m",
+        "price_one_way": "$385",
+        "price_return": "$489.6"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Toronto",
+        "destination": "Paris",
+        "duration": "6h 50m",
+        "price_one_way": "$59",
+        "price_return": "$325.8"
+    },
+    {
+        "airline": "Air India",
+        "source": "Dubai",
+        "destination": "Toronto",
+        "duration": "8h 15m",
+        "price_one_way": "$53",
+        "price_return": "$459.0"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Toronto",
+        "destination": "Sydney",
+        "duration": "5h 45m",
+        "price_one_way": "$196",
+        "price_return": "$739.8000000000001"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Paris",
+        "destination": "Tokyo",
+        "duration": "12h 10m",
+        "price_one_way": "$307",
+        "price_return": "$340.2"
+    },
+    {
+        "airline": "Air India",
+        "source": "Dubai",
+        "destination": "Mumbai",
+        "duration": "12h 10m",
+        "price_one_way": "$181",
+        "price_return": "$378.0"
+    },
+    {
+        "airline": "Air India",
+        "source": "Delhi",
+        "destination": "New York",
+        "duration": "2h 30m",
+        "price_one_way": "$84",
+        "price_return": "$748.8000000000001"
+    },
+    {
+        "airline": "Delta",
+        "source": "New York",
+        "destination": "Dubai",
+        "duration": "12h 10m",
+        "price_one_way": "$106",
+        "price_return": "$257.40000000000003"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Toronto",
+        "destination": "New York",
+        "duration": "6h 50m",
+        "price_one_way": "$175",
+        "price_return": "$718.2"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Sydney",
+        "destination": "Mumbai",
+        "duration": "12h 10m",
+        "price_one_way": "$207",
+        "price_return": "$567.0"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Tokyo",
+        "destination": "Sydney",
+        "duration": "12h 10m",
+        "price_one_way": "$496",
+        "price_return": "$286.2"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Delhi",
+        "destination": "Paris",
+        "duration": "8h 15m",
+        "price_one_way": "$345",
+        "price_return": "$255.6"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Delhi",
+        "destination": "London",
+        "duration": "12h 10m",
+        "price_one_way": "$119",
+        "price_return": "$356.40000000000003"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "London",
+        "destination": "Delhi",
+        "duration": "2h 30m",
+        "price_one_way": "$346",
+        "price_return": "$756.0"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Dubai",
+        "destination": "Mumbai",
+        "duration": "12h 10m",
+        "price_one_way": "$239",
+        "price_return": "$761.4"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Singapore",
+        "destination": "London",
+        "duration": "12h 10m",
+        "price_one_way": "$77",
+        "price_return": "$801.0"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Paris",
+        "destination": "Dubai",
+        "duration": "3h 20m",
+        "price_one_way": "$317",
+        "price_return": "$266.40000000000003"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Sydney",
+        "destination": "Delhi",
+        "duration": "6h 50m",
+        "price_one_way": "$382",
+        "price_return": "$381.6"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "New York",
+        "destination": "Singapore",
+        "duration": "6h 50m",
+        "price_one_way": "$445",
+        "price_return": "$621.0"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "London",
+        "destination": "Tokyo",
+        "duration": "12h 10m",
+        "price_one_way": "$285",
+        "price_return": "$838.8000000000001"
+    },
+    {
+        "airline": "Delta",
+        "source": "London",
+        "destination": "New York",
+        "duration": "6h 50m",
+        "price_one_way": "$400",
+        "price_return": "$577.8000000000001"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Toronto",
+        "destination": "Paris",
+        "duration": "8h 15m",
+        "price_one_way": "$96",
+        "price_return": "$558.0"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Delhi",
+        "destination": "Singapore",
+        "duration": "12h 10m",
+        "price_one_way": "$202",
+        "price_return": "$124.2"
+    },
+    {
+        "airline": "Air India",
+        "source": "Delhi",
+        "destination": "New York",
+        "duration": "2h 30m",
+        "price_one_way": "$426",
+        "price_return": "$124.2"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Toronto",
+        "destination": "Delhi",
+        "duration": "5h 45m",
+        "price_one_way": "$302",
+        "price_return": "$739.8000000000001"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Toronto",
+        "destination": "Singapore",
+        "duration": "5h 45m",
+        "price_one_way": "$280",
+        "price_return": "$360.0"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Mumbai",
+        "destination": "Singapore",
+        "duration": "12h 10m",
+        "price_one_way": "$198",
+        "price_return": "$504.0"
+    },
+    {
+        "airline": "Air India",
+        "source": "Tokyo",
+        "destination": "Sydney",
+        "duration": "6h 50m",
+        "price_one_way": "$331",
+        "price_return": "$622.8000000000001"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "duration": "3h 20m",
+        "price_one_way": "$367",
+        "price_return": "$568.8000000000001"
+    },
+    {
+        "airline": "Air India",
+        "source": "Dubai",
+        "destination": "New York",
+        "duration": "2h 30m",
+        "price_one_way": "$296",
+        "price_return": "$649.8000000000001"
+    },
+    {
+        "airline": "Delta",
+        "source": "New York",
+        "destination": "London",
+        "duration": "8h 15m",
+        "price_one_way": "$290",
+        "price_return": "$336.6"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Sydney",
+        "destination": "Toronto",
+        "duration": "8h 15m",
+        "price_one_way": "$254",
+        "price_return": "$687.6"
+    },
+    {
+        "airline": "Delta",
+        "source": "London",
+        "destination": "New York",
+        "duration": "5h 45m",
+        "price_one_way": "$221",
+        "price_return": "$486.0"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "New York",
+        "destination": "Paris",
+        "duration": "5h 45m",
+        "price_one_way": "$63",
+        "price_return": "$570.6"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Singapore",
+        "destination": "New York",
+        "duration": "3h 20m",
+        "price_one_way": "$181",
+        "price_return": "$356.40000000000003"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Mumbai",
+        "destination": "Tokyo",
+        "duration": "8h 15m",
+        "price_one_way": "$126",
+        "price_return": "$648.0"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Tokyo",
+        "destination": "New York",
+        "duration": "8h 15m",
+        "price_one_way": "$121",
+        "price_return": "$610.2"
+    },
+    {
+        "airline": "Delta",
+        "source": "Tokyo",
+        "destination": "Sydney",
+        "duration": "12h 10m",
+        "price_one_way": "$384",
+        "price_return": "$172.8"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Toronto",
+        "destination": "New York",
+        "duration": "2h 30m",
+        "price_one_way": "$420",
+        "price_return": "$225.0"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Singapore",
+        "destination": "Dubai",
+        "duration": "12h 10m",
+        "price_one_way": "$498",
+        "price_return": "$108.0"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Mumbai",
+        "destination": "New York",
+        "duration": "2h 30m",
+        "price_one_way": "$202",
+        "price_return": "$761.4"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "London",
+        "destination": "New York",
+        "duration": "3h 20m",
+        "price_one_way": "$372",
+        "price_return": "$138.6"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Tokyo",
+        "destination": "Mumbai",
+        "duration": "5h 45m",
+        "price_one_way": "$175",
+        "price_return": "$536.4"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "New York",
+        "destination": "Dubai",
+        "duration": "3h 20m",
+        "price_one_way": "$294",
+        "price_return": "$520.2"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Paris",
+        "destination": "Singapore",
+        "duration": "5h 45m",
+        "price_one_way": "$445",
+        "price_return": "$572.4"
+    },
+    {
+        "airline": "Air India",
+        "source": "London",
+        "destination": "New York",
+        "duration": "12h 10m",
+        "price_one_way": "$77",
+        "price_return": "$723.6"
+    },
+    {
+        "airline": "Air India",
+        "source": "London",
+        "destination": "Toronto",
+        "duration": "2h 30m",
+        "price_one_way": "$478",
+        "price_return": "$865.8000000000001"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "London",
+        "destination": "Tokyo",
+        "duration": "2h 30m",
+        "price_one_way": "$290",
+        "price_return": "$502.2"
+    },
+    {
+        "airline": "Emirates",
+        "source": "New York",
+        "destination": "Sydney",
+        "duration": "2h 30m",
+        "price_one_way": "$478",
+        "price_return": "$505.8"
+    },
+    {
+        "airline": "Air India",
+        "source": "Sydney",
+        "destination": "Paris",
+        "duration": "12h 10m",
+        "price_one_way": "$382",
+        "price_return": "$396.0"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Delhi",
+        "destination": "London",
+        "duration": "6h 50m",
+        "price_one_way": "$322",
+        "price_return": "$322.2"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Dubai",
+        "destination": "New York",
+        "duration": "6h 50m",
+        "price_one_way": "$212",
+        "price_return": "$646.2"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Delhi",
+        "destination": "Mumbai",
+        "duration": "6h 50m",
+        "price_one_way": "$179",
+        "price_return": "$435.6"
+    },
+    {
+        "airline": "Air India",
+        "source": "New York",
+        "destination": "Tokyo",
+        "duration": "2h 30m",
+        "price_one_way": "$312",
+        "price_return": "$460.8"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Delhi",
+        "destination": "Dubai",
+        "duration": "8h 15m",
+        "price_one_way": "$59",
+        "price_return": "$460.8"
+    },
+    {
+        "airline": "Delta",
+        "source": "Dubai",
+        "destination": "Toronto",
+        "duration": "2h 30m",
+        "price_one_way": "$53",
+        "price_return": "$718.2"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Sydney",
+        "destination": "Delhi",
+        "duration": "5h 45m",
+        "price_one_way": "$497",
+        "price_return": "$606.6"
+    },
+    {
+        "airline": "Delta",
+        "source": "London",
+        "destination": "Sydney",
+        "duration": "12h 10m",
+        "price_one_way": "$270",
+        "price_return": "$865.8000000000001"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Mumbai",
+        "destination": "Dubai",
+        "duration": "2h 30m",
+        "price_one_way": "$239",
+        "price_return": "$720.0"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Tokyo",
+        "destination": "Mumbai",
+        "duration": "12h 10m",
+        "price_one_way": "$96",
+        "price_return": "$714.6"
+    },
+    {
+        "airline": "Delta",
+        "source": "Delhi",
+        "destination": "Singapore",
+        "duration": "5h 45m",
+        "price_one_way": "$77",
+        "price_return": "$217.8"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Dubai",
+        "destination": "London",
+        "duration": "2h 30m",
+        "price_one_way": "$382",
+        "price_return": "$813.6"
+    },
+    {
+        "airline": "Delta",
+        "source": "Singapore",
+        "destination": "Mumbai",
+        "duration": "2h 30m",
+        "price_one_way": "$380",
+        "price_return": "$230.4"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Singapore",
+        "destination": "Tokyo",
+        "duration": "2h 30m",
+        "price_one_way": "$69",
+        "price_return": "$626.4"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Paris",
+        "destination": "Mumbai",
+        "duration": "5h 45m",
+        "price_one_way": "$472",
+        "price_return": "$388.8"
+    },
+    {
+        "airline": "Air India",
+        "source": "Paris",
+        "destination": "Sydney",
+        "duration": "2h 30m",
+        "price_one_way": "$189",
+        "price_return": "$457.2"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "New York",
+        "destination": "London",
+        "duration": "8h 15m",
+        "price_one_way": "$265",
+        "price_return": "$606.6"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "London",
+        "destination": "New York",
+        "duration": "6h 50m",
+        "price_one_way": "$204",
+        "price_return": "$561.6"
+    },
+    {
+        "airline": "Air India",
+        "source": "Singapore",
+        "destination": "Paris",
+        "duration": "2h 30m",
+        "price_one_way": "$107",
+        "price_return": "$874.8000000000001"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Paris",
+        "destination": "Sydney",
+        "duration": "5h 45m",
+        "price_one_way": "$447",
+        "price_return": "$626.4"
+    },
+    {
+        "airline": "Air India",
+        "source": "New York",
+        "destination": "Delhi",
+        "duration": "5h 45m",
+        "price_one_way": "$339",
+        "price_return": "$802.8000000000001"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Tokyo",
+        "destination": "Toronto",
+        "duration": "2h 30m",
+        "price_one_way": "$310",
+        "price_return": "$493.2"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "New York",
+        "destination": "Sydney",
+        "duration": "3h 20m",
+        "price_one_way": "$233",
+        "price_return": "$646.2"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Dubai",
+        "destination": "Tokyo",
+        "duration": "12h 10m",
+        "price_one_way": "$63",
+        "price_return": "$684.0"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Singapore",
+        "destination": "Mumbai",
+        "duration": "3h 20m",
+        "price_one_way": "$499",
+        "price_return": "$117.0"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Mumbai",
+        "destination": "New York",
+        "duration": "6h 50m",
+        "price_one_way": "$262",
+        "price_return": "$331.2"
+    },
+    {
+        "airline": "Air India",
+        "source": "Delhi",
+        "destination": "Toronto",
+        "duration": "3h 20m",
+        "price_one_way": "$108",
+        "price_return": "$486.0"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Paris",
+        "destination": "Tokyo",
+        "duration": "8h 15m",
+        "price_one_way": "$466",
+        "price_return": "$529.2"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Paris",
+        "destination": "New York",
+        "duration": "6h 50m",
+        "price_one_way": "$479",
+        "price_return": "$601.2"
+    },
+    {
+        "airline": "Air India",
+        "source": "Sydney",
+        "destination": "Singapore",
+        "duration": "2h 30m",
+        "price_one_way": "$300",
+        "price_return": "$801.0"
+    },
+    {
+        "airline": "Delta",
+        "source": "New York",
+        "destination": "Singapore",
+        "duration": "6h 50m",
+        "price_one_way": "$253",
+        "price_return": "$624.6"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Dubai",
+        "destination": "Toronto",
+        "duration": "5h 45m",
+        "price_one_way": "$499",
+        "price_return": "$642.6"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Mumbai",
+        "destination": "Paris",
+        "duration": "12h 10m",
+        "price_one_way": "$287",
+        "price_return": "$475.2"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Paris",
+        "destination": "London",
+        "duration": "12h 10m",
+        "price_one_way": "$287",
+        "price_return": "$763.2"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "London",
+        "destination": "Tokyo",
+        "duration": "8h 15m",
+        "price_one_way": "$179",
+        "price_return": "$225.0"
+    },
+    {
+        "airline": "Delta",
+        "source": "Mumbai",
+        "destination": "Paris",
+        "duration": "8h 15m",
+        "price_one_way": "$380",
+        "price_return": "$570.6"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Dubai",
+        "destination": "Paris",
+        "duration": "2h 30m",
+        "price_one_way": "$222",
+        "price_return": "$671.4"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Delhi",
+        "destination": "New York",
+        "duration": "6h 50m",
+        "price_one_way": "$339",
+        "price_return": "$801.0"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "New York",
+        "destination": "Sydney",
+        "duration": "12h 10m",
+        "price_one_way": "$300",
+        "price_return": "$336.6"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Tokyo",
+        "destination": "Paris",
+        "duration": "6h 50m",
+        "price_one_way": "$281",
+        "price_return": "$381.6"
+    },
+    {
+        "airline": "Air India",
+        "source": "Dubai",
+        "destination": "Paris",
+        "duration": "2h 30m",
+        "price_one_way": "$254",
+        "price_return": "$687.6"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "New York",
+        "destination": "London",
+        "duration": "8h 15m",
+        "price_one_way": "$59",
+        "price_return": "$804.6"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Mumbai",
+        "destination": "Dubai",
+        "duration": "8h 15m",
+        "price_one_way": "$371",
+        "price_return": "$432.0"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Delhi",
+        "destination": "Dubai",
+        "duration": "3h 20m",
+        "price_one_way": "$339",
+        "price_return": "$892.8000000000001"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Singapore",
+        "destination": "Paris",
+        "duration": "8h 15m",
+        "price_one_way": "$232",
+        "price_return": "$477.0"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Toronto",
+        "destination": "London",
+        "duration": "3h 20m",
+        "price_one_way": "$402",
+        "price_return": "$433.8"
+    },
+    {
+        "airline": "Air India",
+        "source": "Dubai",
+        "destination": "Mumbai",
+        "duration": "5h 45m",
+        "price_one_way": "$327",
+        "price_return": "$545.4"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Dubai",
+        "destination": "Mumbai",
+        "duration": "8h 15m",
+        "price_one_way": "$346",
+        "price_return": "$673.2"
+    },
+    {
+        "airline": "Delta",
+        "source": "Singapore",
+        "destination": "Toronto",
+        "duration": "12h 10m",
+        "price_one_way": "$357",
+        "price_return": "$376.2"
+    },
+    {
+        "airline": "Delta",
+        "source": "Paris",
+        "destination": "Singapore",
+        "duration": "5h 45m",
+        "price_one_way": "$479",
+        "price_return": "$225.0"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Paris",
+        "destination": "Tokyo",
+        "duration": "8h 15m",
+        "price_one_way": "$492",
+        "price_return": "$892.8000000000001"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Dubai",
+        "destination": "Paris",
+        "duration": "12h 10m",
+        "price_one_way": "$106",
+        "price_return": "$171.0"
+    },
+    {
+        "airline": "Delta",
+        "source": "Tokyo",
+        "destination": "Toronto",
+        "duration": "2h 30m",
+        "price_one_way": "$357",
+        "price_return": "$255.6"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Sydney",
+        "destination": "Delhi",
+        "duration": "8h 15m",
+        "price_one_way": "$212",
+        "price_return": "$345.6"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Dubai",
+        "destination": "London",
+        "duration": "2h 30m",
+        "price_one_way": "$497",
+        "price_return": "$172.8"
+    },
+    {
+        "airline": "Air India",
+        "source": "Delhi",
+        "destination": "London",
+        "duration": "6h 50m",
+        "price_one_way": "$53",
+        "price_return": "$642.6"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Delhi",
+        "destination": "New York",
+        "duration": "5h 45m",
+        "price_one_way": "$462",
+        "price_return": "$682.2"
+    },
+    {
+        "airline": "Delta",
+        "source": "Tokyo",
+        "destination": "Toronto",
+        "duration": "12h 10m",
+        "price_one_way": "$312",
+        "price_return": "$892.8000000000001"
+    },
+    {
+        "airline": "Delta",
+        "source": "Tokyo",
+        "destination": "Dubai",
+        "duration": "2h 30m",
+        "price_one_way": "$203",
+        "price_return": "$502.2"
+    },
+    {
+        "airline": "Delta",
+        "source": "Paris",
+        "destination": "Sydney",
+        "duration": "8h 15m",
+        "price_one_way": "$61",
+        "price_return": "$756.0"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Delhi",
+        "destination": "Toronto",
+        "duration": "12h 10m",
+        "price_one_way": "$270",
+        "price_return": "$516.6"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "New York",
+        "destination": "Sydney",
+        "duration": "6h 50m",
+        "price_one_way": "$222",
+        "price_return": "$570.6"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Mumbai",
+        "destination": "Toronto",
+        "duration": "6h 50m",
+        "price_one_way": "$322",
+        "price_return": "$138.6"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Dubai",
+        "destination": "New York",
+        "duration": "12h 10m",
+        "price_one_way": "$80",
+        "price_return": "$601.2"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Sydney",
+        "destination": "Delhi",
+        "duration": "2h 30m",
+        "price_one_way": "$446",
+        "price_return": "$489.6"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Toronto",
+        "destination": "Sydney",
+        "duration": "12h 10m",
+        "price_one_way": "$400",
+        "price_return": "$255.6"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Toronto",
+        "destination": "Mumbai",
+        "duration": "3h 20m",
+        "price_one_way": "$121",
+        "price_return": "$766.8000000000001"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Delhi",
+        "destination": "Sydney",
+        "duration": "3h 20m",
+        "price_one_way": "$216",
+        "price_return": "$642.6"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Paris",
+        "destination": "Dubai",
+        "duration": "2h 30m",
+        "price_one_way": "$359",
+        "price_return": "$543.6"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Mumbai",
+        "destination": "New York",
+        "duration": "3h 20m",
+        "price_one_way": "$445",
+        "price_return": "$567.0"
+    },
+    {
+        "airline": "Delta",
+        "source": "Delhi",
+        "destination": "Singapore",
+        "duration": "3h 20m",
+        "price_one_way": "$345",
+        "price_return": "$315.0"
+    },
+    {
+        "airline": "Delta",
+        "source": "London",
+        "destination": "Sydney",
+        "duration": "6h 50m",
+        "price_one_way": "$279",
+        "price_return": "$336.6"
+    },
+    {
+        "airline": "Air India",
+        "source": "Sydney",
+        "destination": "New York",
+        "duration": "5h 45m",
+        "price_one_way": "$423",
+        "price_return": "$349.2"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Sydney",
+        "destination": "Singapore",
+        "duration": "8h 15m",
+        "price_one_way": "$256",
+        "price_return": "$522.0"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Sydney",
+        "destination": "Mumbai",
+        "duration": "12h 10m",
+        "price_one_way": "$135",
+        "price_return": "$460.8"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Tokyo",
+        "destination": "Dubai",
+        "duration": "8h 15m",
+        "price_one_way": "$334",
+        "price_return": "$106.2"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "duration": "8h 15m",
+        "price_one_way": "$212",
+        "price_return": "$183.6"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Mumbai",
+        "destination": "London",
+        "duration": "2h 30m",
+        "price_one_way": "$221",
+        "price_return": "$183.6"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "London",
+        "destination": "Toronto",
+        "duration": "6h 50m",
+        "price_one_way": "$339",
+        "price_return": "$225.0"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Tokyo",
+        "destination": "London",
+        "duration": "2h 30m",
+        "price_one_way": "$135",
+        "price_return": "$138.6"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Toronto",
+        "destination": "Sydney",
+        "duration": "5h 45m",
+        "price_one_way": "$207",
+        "price_return": "$315.0"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Sydney",
+        "destination": "Paris",
+        "duration": "3h 20m",
+        "price_one_way": "$196",
+        "price_return": "$194.4"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "New York",
+        "destination": "Dubai",
+        "duration": "8h 15m",
+        "price_one_way": "$132",
+        "price_return": "$363.6"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Paris",
+        "destination": "London",
+        "duration": "5h 45m",
+        "price_one_way": "$281",
+        "price_return": "$667.8000000000001"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Delhi",
+        "destination": "Paris",
+        "duration": "3h 20m",
+        "price_one_way": "$209",
+        "price_return": "$570.6"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Paris",
+        "destination": "London",
+        "duration": "2h 30m",
+        "price_one_way": "$337",
+        "price_return": "$898.2"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "New York",
+        "destination": "Delhi",
+        "duration": "12h 10m",
+        "price_one_way": "$435",
+        "price_return": "$513.0"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Singapore",
+        "destination": "Delhi",
+        "duration": "5h 45m",
+        "price_one_way": "$262",
+        "price_return": "$828.0"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Tokyo",
+        "destination": "Paris",
+        "duration": "8h 15m",
+        "price_one_way": "$200",
+        "price_return": "$892.8000000000001"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Sydney",
+        "destination": "Dubai",
+        "duration": "12h 10m",
+        "price_one_way": "$343",
+        "price_return": "$604.8000000000001"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Paris",
+        "destination": "Tokyo",
+        "duration": "3h 20m",
+        "price_one_way": "$180",
+        "price_return": "$475.2"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Singapore",
+        "destination": "Toronto",
+        "duration": "6h 50m",
+        "price_one_way": "$63",
+        "price_return": "$898.2"
+    },
+    {
+        "airline": "Air India",
+        "source": "Mumbai",
+        "destination": "Tokyo",
+        "duration": "12h 10m",
+        "price_one_way": "$280",
+        "price_return": "$601.2"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Mumbai",
+        "destination": "London",
+        "duration": "8h 15m",
+        "price_one_way": "$472",
+        "price_return": "$689.4"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Delhi",
+        "destination": "New York",
+        "duration": "8h 15m",
+        "price_one_way": "$441",
+        "price_return": "$522.0"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Sydney",
+        "destination": "Delhi",
+        "duration": "12h 10m",
+        "price_one_way": "$399",
+        "price_return": "$646.2"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Tokyo",
+        "destination": "Toronto",
+        "duration": "5h 45m",
+        "price_one_way": "$400",
+        "price_return": "$459.0"
+    },
+    {
+        "airline": "Air India",
+        "source": "Toronto",
+        "destination": "Sydney",
+        "duration": "5h 45m",
+        "price_one_way": "$204",
+        "price_return": "$761.4"
+    },
+    {
+        "airline": "Delta",
+        "source": "Toronto",
+        "destination": "Paris",
+        "duration": "3h 20m",
+        "price_one_way": "$77",
+        "price_return": "$648.0"
+    },
+    {
+        "airline": "Air India",
+        "source": "Sydney",
+        "destination": "Dubai",
+        "duration": "5h 45m",
+        "price_one_way": "$125",
+        "price_return": "$678.6"
+    },
+    {
+        "airline": "Air India",
+        "source": "Mumbai",
+        "destination": "Toronto",
+        "duration": "3h 20m",
+        "price_one_way": "$379",
+        "price_return": "$700.2"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Paris",
+        "destination": "Dubai",
+        "duration": "6h 50m",
+        "price_one_way": "$247",
+        "price_return": "$748.8000000000001"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Sydney",
+        "destination": "Mumbai",
+        "duration": "6h 50m",
+        "price_one_way": "$379",
+        "price_return": "$678.6"
+    },
+    {
+        "airline": "Delta",
+        "source": "London",
+        "destination": "Sydney",
+        "duration": "12h 10m",
+        "price_one_way": "$311",
+        "price_return": "$777.6"
+    },
+    {
+        "airline": "Delta",
+        "source": "Paris",
+        "destination": "London",
+        "duration": "3h 20m",
+        "price_one_way": "$307",
+        "price_return": "$714.6"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Paris",
+        "destination": "London",
+        "duration": "2h 30m",
+        "price_one_way": "$108",
+        "price_return": "$516.6"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Delhi",
+        "destination": "Sydney",
+        "duration": "8h 15m",
+        "price_one_way": "$255",
+        "price_return": "$802.8000000000001"
+    },
+    {
+        "airline": "Delta",
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "duration": "3h 20m",
+        "price_one_way": "$426",
+        "price_return": "$682.2"
+    },
+    {
+        "airline": "Air India",
+        "source": "Sydney",
+        "destination": "Tokyo",
+        "duration": "12h 10m",
+        "price_one_way": "$374",
+        "price_return": "$399.6"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Singapore",
+        "destination": "Delhi",
+        "duration": "5h 45m",
+        "price_one_way": "$357",
+        "price_return": "$529.2"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "duration": "3h 20m",
+        "price_one_way": "$360",
+        "price_return": "$579.6"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Sydney",
+        "destination": "Mumbai",
+        "duration": "6h 50m",
+        "price_one_way": "$80",
+        "price_return": "$378.0"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Dubai",
+        "destination": "New York",
+        "duration": "5h 45m",
+        "price_one_way": "$112",
+        "price_return": "$106.2"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Paris",
+        "destination": "Toronto",
+        "duration": "5h 45m",
+        "price_one_way": "$290",
+        "price_return": "$649.8000000000001"
+    },
+    {
+        "airline": "Air India",
+        "source": "Paris",
+        "destination": "Dubai",
+        "duration": "5h 45m",
+        "price_one_way": "$462",
+        "price_return": "$813.6"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "London",
+        "destination": "Toronto",
+        "duration": "8h 15m",
+        "price_one_way": "$204",
+        "price_return": "$399.6"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Sydney",
+        "destination": "Mumbai",
+        "duration": "8h 15m",
+        "price_one_way": "$222",
+        "price_return": "$444.6"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Toronto",
+        "destination": "Mumbai",
+        "duration": "3h 20m",
+        "price_one_way": "$322",
+        "price_return": "$183.6"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Tokyo",
+        "destination": "New York",
+        "duration": "6h 50m",
+        "price_one_way": "$126",
+        "price_return": "$540.0"
+    },
+    {
+        "airline": "Delta",
+        "source": "Toronto",
+        "destination": "Singapore",
+        "duration": "3h 20m",
+        "price_one_way": "$262",
+        "price_return": "$325.8"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Mumbai",
+        "destination": "Delhi",
+        "duration": "2h 30m",
+        "price_one_way": "$317",
+        "price_return": "$757.8000000000001"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Delhi",
+        "destination": "New York",
+        "duration": "3h 20m",
+        "price_one_way": "$61",
+        "price_return": "$808.2"
+    },
+    {
+        "airline": "Delta",
+        "source": "New York",
+        "destination": "Tokyo",
+        "duration": "2h 30m",
+        "price_one_way": "$181",
+        "price_return": "$486.0"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Delhi",
+        "destination": "Singapore",
+        "duration": "12h 10m",
+        "price_one_way": "$289",
+        "price_return": "$849.6"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Singapore",
+        "destination": "Sydney",
+        "duration": "12h 10m",
+        "price_one_way": "$112",
+        "price_return": "$144.0"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Delhi",
+        "destination": "New York",
+        "duration": "8h 15m",
+        "price_one_way": "$53",
+        "price_return": "$459.0"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Singapore",
+        "destination": "Mumbai",
+        "duration": "12h 10m",
+        "price_one_way": "$242",
+        "price_return": "$138.6"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Sydney",
+        "destination": "New York",
+        "duration": "2h 30m",
+        "price_one_way": "$339",
+        "price_return": "$885.6"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Toronto",
+        "destination": "London",
+        "duration": "3h 20m",
+        "price_one_way": "$53",
+        "price_return": "$748.8000000000001"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Singapore",
+        "destination": "Mumbai",
+        "duration": "12h 10m",
+        "price_one_way": "$256",
+        "price_return": "$687.6"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Mumbai",
+        "destination": "London",
+        "duration": "8h 15m",
+        "price_one_way": "$321",
+        "price_return": "$459.0"
+    },
+    {
+        "airline": "Air India",
+        "source": "New York",
+        "destination": "Mumbai",
+        "duration": "5h 45m",
+        "price_one_way": "$372",
+        "price_return": "$718.2"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "New York",
+        "destination": "Tokyo",
+        "duration": "8h 15m",
+        "price_one_way": "$318",
+        "price_return": "$257.40000000000003"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Mumbai",
+        "destination": "Singapore",
+        "duration": "3h 20m",
+        "price_one_way": "$106",
+        "price_return": "$415.8"
+    },
+    {
+        "airline": "Delta",
+        "source": "Mumbai",
+        "destination": "New York",
+        "duration": "12h 10m",
+        "price_one_way": "$142",
+        "price_return": "$540.0"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Dubai",
+        "destination": "Tokyo",
+        "duration": "12h 10m",
+        "price_one_way": "$121",
+        "price_return": "$138.6"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "New York",
+        "destination": "Mumbai",
+        "duration": "5h 45m",
+        "price_one_way": "$135",
+        "price_return": "$874.8000000000001"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Toronto",
+        "destination": "Singapore",
+        "duration": "12h 10m",
+        "price_one_way": "$348",
+        "price_return": "$352.8"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Mumbai",
+        "destination": "London",
+        "duration": "8h 15m",
+        "price_one_way": "$61",
+        "price_return": "$642.6"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Sydney",
+        "destination": "Paris",
+        "duration": "8h 15m",
+        "price_one_way": "$447",
+        "price_return": "$243.0"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Singapore",
+        "destination": "London",
+        "duration": "5h 45m",
+        "price_one_way": "$416",
+        "price_return": "$624.6"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "London",
+        "destination": "Tokyo",
+        "duration": "2h 30m",
+        "price_one_way": "$147",
+        "price_return": "$475.2"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Delhi",
+        "destination": "Singapore",
+        "duration": "5h 45m",
+        "price_one_way": "$462",
+        "price_return": "$412.2"
+    },
+    {
+        "airline": "Delta",
+        "source": "Delhi",
+        "destination": "Tokyo",
+        "duration": "6h 50m",
+        "price_one_way": "$377",
+        "price_return": "$626.4"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Toronto",
+        "destination": "Tokyo",
+        "duration": "3h 20m",
+        "price_one_way": "$466",
+        "price_return": "$831.6"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Paris",
+        "destination": "Singapore",
+        "duration": "12h 10m",
+        "price_one_way": "$235",
+        "price_return": "$460.8"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Toronto",
+        "destination": "New York",
+        "duration": "6h 50m",
+        "price_one_way": "$280",
+        "price_return": "$144.0"
+    },
+    {
+        "airline": "Air India",
+        "source": "Toronto",
+        "destination": "Dubai",
+        "duration": "2h 30m",
+        "price_one_way": "$321",
+        "price_return": "$617.4"
+    },
+    {
+        "airline": "Delta",
+        "source": "Tokyo",
+        "destination": "Delhi",
+        "duration": "3h 20m",
+        "price_one_way": "$452",
+        "price_return": "$151.20000000000002"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Paris",
+        "destination": "Singapore",
+        "duration": "3h 20m",
+        "price_one_way": "$499",
+        "price_return": "$183.6"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Tokyo",
+        "destination": "Toronto",
+        "duration": "2h 30m",
+        "price_one_way": "$202",
+        "price_return": "$642.6"
+    },
+    {
+        "airline": "Delta",
+        "source": "Singapore",
+        "destination": "Dubai",
+        "duration": "5h 45m",
+        "price_one_way": "$203",
+        "price_return": "$95.4"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Dubai",
+        "destination": "Singapore",
+        "duration": "3h 20m",
+        "price_one_way": "$318",
+        "price_return": "$865.8000000000001"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Paris",
+        "destination": "Toronto",
+        "duration": "8h 15m",
+        "price_one_way": "$385",
+        "price_return": "$444.6"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Toronto",
+        "destination": "Tokyo",
+        "duration": "12h 10m",
+        "price_one_way": "$385",
+        "price_return": "$459.0"
+    },
+    {
+        "airline": "Delta",
+        "source": "Mumbai",
+        "destination": "London",
+        "duration": "2h 30m",
+        "price_one_way": "$279",
+        "price_return": "$363.6"
+    },
+    {
+        "airline": "Emirates",
+        "source": "New York",
+        "destination": "Dubai",
+        "duration": "12h 10m",
+        "price_one_way": "$69",
+        "price_return": "$108.0"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "London",
+        "destination": "Sydney",
+        "duration": "6h 50m",
+        "price_one_way": "$128",
+        "price_return": "$588.6"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Tokyo",
+        "destination": "Dubai",
+        "duration": "2h 30m",
+        "price_one_way": "$435",
+        "price_return": "$486.0"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Sydney",
+        "destination": "Paris",
+        "duration": "2h 30m",
+        "price_one_way": "$421",
+        "price_return": "$891.0"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Mumbai",
+        "destination": "Tokyo",
+        "duration": "12h 10m",
+        "price_one_way": "$377",
+        "price_return": "$433.8"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Sydney",
+        "destination": "London",
+        "duration": "8h 15m",
+        "price_one_way": "$377",
+        "price_return": "$626.4"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Singapore",
+        "destination": "New York",
+        "duration": "2h 30m",
+        "price_one_way": "$63",
+        "price_return": "$412.2"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Tokyo",
+        "destination": "London",
+        "duration": "2h 30m",
+        "price_one_way": "$112",
+        "price_return": "$396.0"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Tokyo",
+        "destination": "Dubai",
+        "duration": "8h 15m",
+        "price_one_way": "$399",
+        "price_return": "$439.2"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Mumbai",
+        "destination": "Dubai",
+        "duration": "8h 15m",
+        "price_one_way": "$53",
+        "price_return": "$352.8"
+    },
+    {
+        "airline": "Air India",
+        "source": "Dubai",
+        "destination": "London",
+        "duration": "2h 30m",
+        "price_one_way": "$380",
+        "price_return": "$264.6"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Dubai",
+        "destination": "Toronto",
+        "duration": "3h 20m",
+        "price_one_way": "$264",
+        "price_return": "$549.0"
+    },
+    {
+        "airline": "Delta",
+        "source": "Mumbai",
+        "destination": "Toronto",
+        "duration": "2h 30m",
+        "price_one_way": "$445",
+        "price_return": "$225.0"
+    },
+    {
+        "airline": "Delta",
+        "source": "Mumbai",
+        "destination": "Sydney",
+        "duration": "8h 15m",
+        "price_one_way": "$53",
+        "price_return": "$570.6"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Dubai",
+        "destination": "Mumbai",
+        "duration": "2h 30m",
+        "price_one_way": "$321",
+        "price_return": "$504.0"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "Singapore",
+        "destination": "Delhi",
+        "duration": "6h 50m",
+        "price_one_way": "$212",
+        "price_return": "$783.0"
+    },
+    {
+        "airline": "Emirates",
+        "source": "Mumbai",
+        "destination": "Toronto",
+        "duration": "12h 10m",
+        "price_one_way": "$359",
+        "price_return": "$793.8000000000001"
+    },
+    {
+        "airline": "Delta",
+        "source": "London",
+        "destination": "Tokyo",
+        "duration": "3h 20m",
+        "price_one_way": "$207",
+        "price_return": "$291.6"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "New York",
+        "destination": "Singapore",
+        "duration": "12h 10m",
+        "price_one_way": "$299",
+        "price_return": "$700.2"
+    },
+    {
+        "airline": "SpiceJet",
+        "source": "London",
+        "destination": "Sydney",
+        "duration": "5h 45m",
+        "price_one_way": "$300",
+        "price_return": "$540.0"
+    },
+    {
+        "airline": "Qatar Airways",
+        "source": "Mumbai",
+        "destination": "Dubai",
+        "duration": "2h 30m",
+        "price_one_way": "$210",
+        "price_return": "$367.2"
+    },
+    {
+        "airline": "Lufthansa",
+        "source": "Toronto",
+        "destination": "London",
+        "duration": "5h 45m",
+        "price_one_way": "$262",
+        "price_return": "$381.6"
+    },
+    {
+        "airline": "IndiGo",
+        "source": "Paris",
+        "destination": "Delhi",
+        "duration": "2h 30m",
+        "price_one_way": "$472",
+        "price_return": "$376.2"
+    },
+    {
+        "airline": "American Airlines",
+        "source": "Dubai",
+        "destination": "Delhi",
+        "duration": "2h 30m",
+        "price_one_way": "$216",
+        "price_return": "$529.2"
+    }
+]
